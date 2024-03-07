@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
   #         poppy / primer / sky / violet / water 
-  theme = "magma"
+  theme = "violet"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -88,27 +88,32 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
+      url       = "https://github.com/ShreyashSomvanshi"
   [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
+      icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+      url       = "https://www.linkedin.com/in/shreyash-somvanshi"
+  [[params.social]]
+      icon      = "kaggle" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.kaggle.com/shreyashsomvanshi"
+  [[params.social]]
+      icon      = "medium" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://medium.com/@ShreyashSomvanshi"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
-  [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
+      url       = "https://twitter.com/shreyash___s"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
+      url       = "https://orcid.org/0009-0005-5977-5606"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
       url       = "/blog/index.xml"
+
 
 [taxonomies]
   category = "categories"

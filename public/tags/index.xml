@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shreyash Somvanshi</title>
-    <link>//localhost:6181/tags/</link>
+    <link>//localhost:4321/tags/</link>
     <description>Recent content in Tags on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:6181/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Style</title>
-      <link>//localhost:6181/tags/style/</link>
+      <link>//localhost:4321/tags/style/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:6181/tags/style/</guid>
+      <guid>//localhost:4321/tags/style/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo-Site</title>
-      <link>//localhost:6181/tags/hugo-site/</link>
+      <link>//localhost:4321/tags/hugo-site/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:6181/tags/hugo-site/</guid>
+      <guid>//localhost:4321/tags/hugo-site/</guid>
       <description></description>
     </item>
   </channel>

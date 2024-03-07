@@ -14,3 +14,24 @@
     {{ end }}
   </div>
 {{ end }}
+
+<h3>Subscribe to my Newsletter!</h3>
+<form action="https://formspree.io/f/mvoeqkqw" method="post" accept-charset="utf-8"> 
+  <div class="db dt-ns f5 w-100 mv4 mh0">
+    <div class="db dtc-ns v-btm pr1-ns">
+      <label for="full-name">Name</label>
+      <input type="text" name="full-name" id="full-name" placeholder="First Last">
+    </div>
+    <div class="db dtc-ns v-btm pr1-ns">
+      <label for="email-address">Email</label>
+      <input type="email" name="email-address" id="email-address" placeholder="your@email.here">
+    </div>
+    <div class="db dtc-ns v-btm pr1-ns" style="display: none;">
+      <label for="message">Message</label>
+      <textarea name="message" id="message" readonly>Newsletter</textarea>
+    </div>
+    <div class="db dtc-ns v-btm pr1-ns">
+      <input type="submit" value="Join">
+    </div>
+  </div>
+</form>

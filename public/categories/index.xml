@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Shreyash Somvanshi</title>
-    <link>//localhost:6181/categories/</link>
+    <link>//localhost:4321/categories/</link>
     <description>Recent content in Categories on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:6181/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme Features</title>
-      <link>//localhost:6181/categories/theme-features/</link>
+      <link>//localhost:4321/categories/theme-features/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:6181/categories/theme-features/</guid>
+      <guid>//localhost:4321/categories/theme-features/</guid>
       <description></description>
     </item>
     <item>
       <title>Evergreen</title>
-      <link>//localhost:6181/categories/evergreen/</link>
+      <link>//localhost:4321/categories/evergreen/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:6181/categories/evergreen/</guid>
+      <guid>//localhost:4321/categories/evergreen/</guid>
       <description></description>
     </item>
     <item>
       <title>Workshop</title>
-      <link>//localhost:6181/categories/workshop/</link>
+      <link>//localhost:4321/categories/workshop/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:6181/categories/workshop/</guid>
+      <guid>//localhost:4321/categories/workshop/</guid>
       <description></description>
     </item>
     <item>
       <title>R</title>
-      <link>//localhost:6181/categories/r/</link>
+      <link>//localhost:4321/categories/r/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:6181/categories/r/</guid>
+      <guid>//localhost:4321/categories/r/</guid>
       <description></description>
     </item>
     <item>
       <title>Meetup</title>
-      <link>//localhost:6181/categories/meetup/</link>
+      <link>//localhost:4321/categories/meetup/</link>
       <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      <guid>//localhost:6181/categories/meetup/</guid>
+      <guid>//localhost:4321/categories/meetup/</guid>
       <description></description>
     </item>
     <item>
       <title>Package</title>
-      <link>//localhost:6181/categories/package/</link>
+      <link>//localhost:4321/categories/package/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:6181/categories/package/</guid>
+      <guid>//localhost:4321/categories/package/</guid>
       <description></description>
     </item>
   </channel>
