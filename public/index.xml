@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Apéro on Shreyash Somvanshi</title>
+    <title>Shreyash Somvanshi</title>
     <link>//localhost:4321/</link>
-    <description>Recent content in Hugo Apéro on Shreyash Somvanshi</description>
+    <description>Recent content on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 01:00:41 -0600</lastBuildDate>
     <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
@@ -77,6 +77,13 @@
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/collection/day02/03-blogdown/</guid>
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/collection/day02/03-blogdown/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>//localhost:4321/contact/</link>
+      <pubDate>Fri, 08 Mar 2024 01:00:41 -0600</pubDate>
+      <guid>//localhost:4321/contact/</guid>
+      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.&#xA;Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
     </item>
     <item>
       <title>Set up your social</title>
@@ -177,13 +184,6 @@
       <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
     </item>
     <item>
-      <title>Contact</title>
-      <link>//localhost:4321/contact/</link>
-      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
-      <guid>//localhost:4321/contact/</guid>
-      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.&#xA;Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
-    </item>
-    <item>
       <title>Typography Styles &amp; Element Examples</title>
       <link>//localhost:4321/elements/</link>
       <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
@@ -203,6 +203,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:4321/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>//localhost:4321/privacypolicy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/privacypolicy/</guid>
+      <description>Privacy Policy This Privacy Policy outlines how your personal information is collected, used, and shared when you visit this website. By accessing or using the website, you agree to the terms of this Privacy Policy.&#xA;1. Information We Collect&#xA;Contact Form: When you submit information through the contact form, we collect your name and email address to respond to your inquiry.&#xA;Newsletter: If you subscribe to our newsletter, we collect your email address to provide updates and relevant content.</description>
+    </item>
+    <item>
+      <title>Terms and Conditions</title>
+      <link>//localhost:4321/TandC/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/TandC/</guid>
+      <description>Terms and Conditions Welcome to this website! By accessing and using this website, you agree to comply with these terms and conditions. If you disagree with any part of these terms, please refrain from using the website.&#xA;Website Rights Attribution: The rights to this open-source Hugo Apero template belong to its core contributors and developers, and I acknowledge and respect their creative contributions.&#xA;Content Ownership: Unless specified otherwise, most of the content on this website belongs to owner.</description>
     </item>
   </channel>
 </rss>

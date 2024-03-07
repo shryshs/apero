@@ -1,8 +1,8 @@
 ---
 title: Contact
 name: Contact Us Form
-description: "This template has a **contact-us** form built right in. All you need to do is add a valid recipient form-id to the front matter of this form page and you're ready to receive submissions."
-date: 2019-02-25T13:38:41-06:00
+description: "Whether you have questions, feedback, project or just want to connect, I'd love to hear from you. I'm always open to new opportunities, collaborations, and interesting conversations. Use this form to send me a message, and I'll get back to you as soon as possible."
+date: 2024-03-08T01:00:41-06:00
 draft: false
 url: contact
 type: form

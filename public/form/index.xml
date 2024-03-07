@@ -6,12 +6,12 @@
     <description>Recent content in Forms on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Feb 2019 13:38:41 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 01:00:41 -0600</lastBuildDate>
     <atom:link href="//localhost:4321/form/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>//localhost:4321/contact/</link>
-      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      <pubDate>Fri, 08 Mar 2024 01:00:41 -0600</pubDate>
       <guid>//localhost:4321/contact/</guid>
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.&#xA;Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
     </item>

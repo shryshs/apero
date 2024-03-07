@@ -38,13 +38,25 @@
     <loc>//localhost:4321/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>//localhost:4321/</loc>
+    <lastmod>2024-03-08T01:31:41-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/TandC/</loc>
+    <lastmod>2024-03-08T01:31:41-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/privacypolicy/</loc>
+    <lastmod>2024-03-08T01:23:41-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/contact/</loc>
+    <lastmod>2024-03-08T01:00:41-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/form/</loc>
+    <lastmod>2024-03-08T01:00:41-06:00</lastmod>
+  </url><url>
     <loc>//localhost:4321/blog/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/categories/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/blog/social/</loc>
@@ -133,12 +145,6 @@
   </url><url>
     <loc>//localhost:4321/blog/built-in-contact-form/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/contact/</loc>
-    <lastmod>2019-02-25T13:38:41-06:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/form/</loc>
-    <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
     <loc>//localhost:4321/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>

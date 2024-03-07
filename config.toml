@@ -86,6 +86,10 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
+      icon      = "envelope" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "mailto:shreyashsomvanshi03+site_apero@gmail.com"
+  [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/ShreyashSomvanshi"
@@ -152,46 +156,46 @@ enableEmoji = true
     title = "Contact Me!"
     url = "/contact/"
     weight = 6
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 7
+#  [[menu.header]]
+#    name = "Elements"
+#    title = "Element Page"
+#    url = "/elements/"
+#    weight = 7
     
   # Configure footer  
   [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
+    name = "T&C"
+    title = "T&C"
+    url = "/TandC/"
     weight = 1
+  [[menu.footer]]
+    name = "Privacy Policy"
+    title = "Privacy Policy"
+    url = "/privacypolicy/"
+    weight = 2
   [[menu.footer]]
     name = "Contact"
     title = "Contact form"
     url = "/contact/"
-    weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
     weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
   [privacy.disqus]
-    disable = false
+    disable = true
   [privacy.googleAnalytics]
-    disable = false
+    disable = true
     anonymizeIP = true
     respectDoNotTrack = true
   [privacy.instagram]
-    disable = false
+    disable = true
     simple = true
   [privacy.twitter]
     disable = false
     enableDNT = true
     simple = false
   [privacy.vimeo]
-    disable = false
+    disable = true
     enableDNT = true
     simple = true
   [privacy.youtube]
