@@ -38,19 +38,13 @@
     <loc>//localhost:4321/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/</loc>
-    <lastmod>2024-03-08T01:31:41-06:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/TandC/</loc>
-    <lastmod>2024-03-08T01:31:41-06:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/privacypolicy/</loc>
-    <lastmod>2024-03-08T01:23:41-06:00</lastmod>
-  </url><url>
     <loc>//localhost:4321/contact/</loc>
     <lastmod>2024-03-08T01:00:41-06:00</lastmod>
   </url><url>
     <loc>//localhost:4321/form/</loc>
+    <lastmod>2024-03-08T01:00:41-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/</loc>
     <lastmod>2024-03-08T01:00:41-06:00</lastmod>
   </url><url>
     <loc>//localhost:4321/blog/</loc>
@@ -152,5 +146,9 @@
     <loc>//localhost:4321/contributors/</loc>
   </url><url>
     <loc>//localhost:4321/license/</loc>
+  </url><url>
+    <loc>//localhost:4321/privacypolicy/</loc>
+  </url><url>
+    <loc>//localhost:4321/TandC/</loc>
   </url>
 </urlset>

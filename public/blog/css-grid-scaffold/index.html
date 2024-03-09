@@ -55,7 +55,7 @@ Overview Since I began building websites in Y2K, I&rsquo;ve lost count how many 
   <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
   
   
-  <link rel="stylesheet" href="/style.main.min.fc600ce742546fe629720c5a8ad0a1143c5cccce1be48e78180e574fed054b26.css" integrity="sha256-/GAM50JUb&#43;YpcgxaitChFDxczM4b5I54GA5XT&#43;0FSyY=" media="screen">
+  <link rel="stylesheet" href="/style.main.min.071b467b0ba6a84164d2888ee7eead0235b3f511ef2ba0bfc7ecaec3cf64391c.css" integrity="sha256-BxtGewumqEFk0oiO5&#43;6tAjWz9RHvK6C/x&#43;yuw89kORw=" media="screen">
   
   
   <script src="/panelset.min.ed1ac24b6e16f4e2481e3d1d098ae66f5bc77438aef619e6e266d8ac5b00dc72.js" type="text/javascript"></script>
@@ -183,10 +183,10 @@ Overview Since I began building websites in Y2K, I&rsquo;ve lost count how many 
     </svg></a>
 </h2>
 <p>CSS Grid is a total game changer, IMHO. Compared to the bottomless pit of despair that is the old way, the new way of building a site structure can be done in as little as 5 lines of CSS. Of course, it always takes more than that, but not much. I mean this is really the meat of the deal:</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#458;font-weight:bold">grid-container</span> {
-</span></span><span style="display:flex;"><span>  <span style="color:#000;font-weight:bold">display</span>: <span style="color:#000;font-weight:bold">grid</span>;
-</span></span><span style="display:flex;"><span>  <span style="color:#000;font-weight:bold">grid-template-columns</span>: <span style="color:#900;font-weight:bold">repeat</span>(<span style="color:#099">6</span>, <span style="color:#099">1</span>fr);
-</span></span><span style="display:flex;"><span>  <span style="color:#000;font-weight:bold">grid-template-rows</span>: <span style="color:#900;font-weight:bold">repeat</span>(<span style="color:#099">3</span>, <span style="color:#000;font-weight:bold">auto</span>);
+<div class="highlight"><pre tabindex="0" style="color:#fff;background-color:#111;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.grid-container {
+</span></span><span style="display:flex;"><span>  <span style="color:#fb660a;font-weight:bold">display</span>: <span style="color:#fb660a;font-weight:bold">grid</span>;
+</span></span><span style="display:flex;"><span>  <span style="color:#fb660a;font-weight:bold">grid-template-columns</span>: <span style="color:#ff0086;font-weight:bold">repeat</span>(<span style="color:#0086f7;font-weight:bold">6</span>, <span style="color:#0086f7;font-weight:bold">1</span>fr);
+</span></span><span style="display:flex;"><span>  <span style="color:#fb660a;font-weight:bold">grid-template-rows</span>: <span style="color:#ff0086;font-weight:bold">repeat</span>(<span style="color:#0086f7;font-weight:bold">3</span>, <span style="color:#fb660a;font-weight:bold">auto</span>);
 </span></span><span style="display:flex;"><span>}
 </span></span></code></pre></div>
 
@@ -214,9 +214,6 @@ Overview Since I began building websites in Y2K, I&rsquo;ve lost count how many 
     href="//localhost:4321/blog/rmarkdown/">&larr; An Rmarkdown post</a>
   
   
-  
-    <a class="next dtc pl2 tr v-top fw6"
-    href="//localhost:4321/blog/built-in-contact-form/">Built-in Contact Form &rarr;</a>
   
 </div>
 
@@ -287,21 +284,22 @@ to edit this content.</p>
 
 
 <h3>Subscribe to my Newsletter!</h3>
-<form action="https://formspree.io/f/mvoeqkqw" method="post" accept-charset="utf-8"> 
+<form action="https://formsubmit.co/shreyashsomvanshi03+newsletter_formsubmitco@gmail.com" method="post" accept-charset="utf-8"> 
   <div class="db dt-ns f5 w-100 mv4 mh0">
-    <div class="db dtc-ns v-btm pr1-ns">
+    <div class="db dtc-ns v-btm pr1-ns" style="display: none;">
       <label for="full-name">Name</label>
-      <input type="text" name="full-name" id="full-name" placeholder="First Last">
+      <input type="text" name="name" id="full-name" placeholder="First Last">
     </div>
     <div class="db dtc-ns v-btm pr1-ns">
       <label for="email-address">Email</label>
-      <input type="email" name="email-address" id="email-address" placeholder="your@email.here">
+      <input type="email" name="email" placeholder="your@email.here" required>
     </div>
     <div class="db dtc-ns v-btm pr1-ns" style="display: none;">
       <label for="message">Message</label>
       <textarea name="message" id="message" readonly>Newsletter</textarea>
     </div>
     <div class="db dtc-ns v-btm pr1-ns">
+      <input type="hidden" name="_autoresponse" value="Thank you for subscribing my Newsletter -Shreyash Somvanshi!!">
       <input type="submit" value="Join">
     </div>
   </div>

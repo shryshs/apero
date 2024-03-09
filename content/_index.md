@@ -1,15 +1,15 @@
 ---
 title: "Shreyash Somvanshi"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
+subtitle: "A.I. & Data Science Engineer"
+description: "Hi there! I'm a behavioral scientist + former professor turned data scientist + professional educator turned product manager, which makes perfect sense once you get to know me. <br><br>I am passionate about creating software that earns users’ love, and I have a real knack for designing product experiences that shine. Inside, you'll find my writing about products and projects I've worked on, along with reflections about learning, teaching, and crafting kind tech tools."
 images:
   - img/revoir.jpg
-image_left: true
-text_align_left: false
+image_left: false
+text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about
-action_label: "Read More &rarr;"
+action_label: "About me &rarr;"
 action_type: text # text, button
 type: home
 ---
