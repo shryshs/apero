@@ -10,9 +10,9 @@
     <atom:link href="//localhost:4321/categories/git-open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Contribute to Open Source? (For Beginners)</title>
-      <link>//localhost:4321/blog/contribute-to-open-source/contribute-to-open-source/</link>
+      <link>//localhost:4321/blog/contribute-to-open-source/</link>
       <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/contribute-to-open-source/contribute-to-open-source/</guid>
+      <guid>//localhost:4321/blog/contribute-to-open-source/</guid>
       <description>Contributing to open source is a great way to learn, teach, and build experience in any skill.&#xA;First of all you must be familiar with basic Git/GitHub functionalities (i.e. What is commit, repository, fork, branches, merging, merge conflicts, etc).&#xA;Improve the software you rely on! Improve existing skills. Meet and build a network of people having similar interests as like you. Find mentors or teach others. Build public artifacts to build a reputation and career.</description>
     </item>
   </channel>

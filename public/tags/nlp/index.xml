@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on Shreyash Somvanshi</title>
+    <link>//localhost:4321/tags/nlp/</link>
+    <description>Recent content in NLP on Shreyash Somvanshi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="//localhost:4321/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NLP - Sentiment Analysis for Customer Reviews</title>
+      <link>//localhost:4321/project/sentiment-analysis/sentiment-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/sentiment-analysis/sentiment-analysis/</guid>
+      <description>Link to check this deployed project: 🌐 https://shreyashsomvanshi-sentiment-analysis-nlp-sa2-v0x309.streamlit.app/</description>
+    </item>
+  </channel>
+</rss>

@@ -10,9 +10,9 @@
     <atom:link href="//localhost:4321/categories/r-studio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installing or Uninstalling R on Ubuntu</title>
-      <link>//localhost:4321/blog/r-install-uninstall/r-install-uninstall/</link>
+      <link>//localhost:4321/blog/r-install-uninstall/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/r-install-uninstall/r-install-uninstall/</guid>
+      <guid>//localhost:4321/blog/r-install-uninstall/</guid>
       <description>R is a open source programming language for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing. Created by statisticians Ross Ihaka and Robert Gentleman, R is used among data miners, bioinformaticians and statisticians for data analysis and developing statistical software. Users have created packages to augment the functions of the R language. According to user surveys and studies of scholarly literature databases, R is one of the most commonly used programming languages used in data mining.</description>
     </item>
   </channel>

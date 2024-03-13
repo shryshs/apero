@@ -6,14 +6,13 @@
     <description>Recent content in R on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Dec 2022 11:55:58 +0530</lastBuildDate>
     <atom:link href="//localhost:4321/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Installing or Uninstalling R on Ubuntu</title>
-      <link>//localhost:4321/blog/all/r-install-uninstall/</link>
-      <pubDate>Sat, 31 Dec 2022 11:55:58 +0530</pubDate>
-      <guid>//localhost:4321/blog/all/r-install-uninstall/</guid>
-      <description>R is a open source programming language for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing. Created by statisticians Ross Ihaka and Robert Gentleman, R is used among data miners, bioinformaticians and statisticians for data analysis and developing statistical software. Users have created packages to augment the functions of the R language. According to user surveys and studies of scholarly literature databases, R is one of the most commonly used programming languages used in data mining.</description>
+      <title>Interactive Dashboard using R Markdown</title>
+      <link>//localhost:4321/project/interactive-dashboard-rmd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/interactive-dashboard-rmd/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

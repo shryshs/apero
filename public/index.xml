@@ -6,7 +6,7 @@
     <description>Recent content on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Mar 2024 01:00:41 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 14:15:59 -0600</lastBuildDate>
     <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
@@ -58,25 +58,39 @@
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/collection/day02/03-blogdown/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
     </item>
     <item>
-      <title>How to Contribute to Open Source? (For Beginners)</title>
-      <link>//localhost:4321/blog/contribute-to-open-source/contribute-to-open-source/</link>
-      <pubDate>Sun, 12 Feb 2023 11:55:58 +0530</pubDate>
-      <guid>//localhost:4321/blog/contribute-to-open-source/contribute-to-open-source/</guid>
-      <description>Contributing to open source is a great way to learn, teach, and build experience in any skill.&#xA;First of all you must be familiar with basic Git/GitHub functionalities (i.e. What is commit, repository, fork, branches, merging, merge conflicts, etc).&#xA;Improve the software you rely on! Improve existing skills. Meet and build a network of people having similar interests as like you. Find mentors or teach others. Build public artifacts to build a reputation and career.</description>
+      <title>SynthCheck: A Synthetic Image Identification using Deep Learning</title>
+      <link>//localhost:4321/project/synthcheck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/synthcheck/</guid>
+      <description>🔗 GitHub Description SynthCheck: A Synthetic Image Identification using Deep Learning&#xA;SynthCheck is an innovative deep learning solution designed for the accurate identification and classification of synthetic images. Leveraging advanced neural network architectures, SynthCheck excels in distinguishing between real and artificially generated images. This tool plays a crucial role in various applications, from combating deepfake threats to enhancing image integrity verification. SynthCheck empowers users to ensure the authenticity of visual content in a world where synthetic media continues to pose challenges, providing a robust and reliable solution for synthetic image detection.</description>
     </item>
     <item>
-      <title>Installing or Uninstalling R on Ubuntu</title>
-      <link>//localhost:4321/blog/r-install-uninstall/r-install-uninstall/</link>
-      <pubDate>Sat, 31 Dec 2022 11:55:58 +0530</pubDate>
-      <guid>//localhost:4321/blog/r-install-uninstall/r-install-uninstall/</guid>
-      <description>R is a open source programming language for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing. Created by statisticians Ross Ihaka and Robert Gentleman, R is used among data miners, bioinformaticians and statisticians for data analysis and developing statistical software. Users have created packages to augment the functions of the R language. According to user surveys and studies of scholarly literature databases, R is one of the most commonly used programming languages used in data mining.</description>
+      <title>Market Segmentation of Electric Vehicles</title>
+      <link>//localhost:4321/project/ev-market-segmentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/ev-market-segmentation/</guid>
+      <description>🌐</description>
     </item>
     <item>
-      <title>Installing Julia and Configuring it in Jupyter Notebook.</title>
-      <link>//localhost:4321/blog/julia-install-config/julia-install-config/</link>
-      <pubDate>Sat, 24 Dec 2022 11:55:58 +0530</pubDate>
-      <guid>//localhost:4321/blog/julia-install-config/julia-install-config/</guid>
-      <description>Julia is a Fast, Dynamic, Reproducible, Composable, Open Source programming language. It has its applications in Data Science, Machine Learning, Parallel Computing, other Scientific domains.&#xA;So to install latest version of Julia on Ubuntu you can follow just the few steps given below.&#xA;Step 1: Open your terminal and change the directory to Downloads.&#xA;$ cd ~/Downloads&#xA;Step 2: Use wget to download the latest compressed Julia Linux Binaries:&#xA;$ wget https://julialang-s3.</description>
+      <title>Interactive Dashboard using R Markdown</title>
+      <link>//localhost:4321/project/interactive-dashboard-rmd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/interactive-dashboard-rmd/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phishing Website Detection</title>
+      <link>//localhost:4321/project/phishing-website-detection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/phishing-website-detection/</guid>
+      <description>Phishing is a type of fraud in which an attacker impersonates a reputable company or person in order to get sensitive information such as login credentials or account information via email or other communication channels. Phishing is popular among attackers because it is easier to persuade someone to click a malicious link that appears to be authentic than it is to break through a computer&amp;rsquo;s protection measures. The mail goal is to predict whether the domains are real or malicious.</description>
+    </item>
+    <item>
+      <title>Synthcheck</title>
+      <link>//localhost:4321/talk/synthcheck/</link>
+      <pubDate>Thu, 14 Mar 2024 14:15:59 -0600</pubDate>
+      <guid>//localhost:4321/talk/synthcheck/</guid>
+      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
     </item>
     <item>
       <title>Contact</title>
@@ -86,18 +100,46 @@
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.&#xA;Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
     </item>
     <item>
-      <title>My First Post</title>
-      <link>//localhost:4321/blog/all/my-first-post/</link>
-      <pubDate>Fri, 18 Aug 2023 11:55:58 +0530</pubDate>
-      <guid>//localhost:4321/blog/all/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+      <title>Course Recommendation System</title>
+      <link>//localhost:4321/project/course-recommend-sys/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/course-recommend-sys/</guid>
+      <description>🔗 GitHub Description The aim of the project is to build an open-source quadcopter platform for research in the field of drone autonomy. Various deep learning and computer vision algorithms will be implemented on the drone including person tracking, gesture control using human pose estimation, optical flow stabilization, obstacle avoidance, and depth estimation using monocular vision. The drone uses a Pixhawk flight controller with Raspberry Pi as a companion computer.</description>
+    </item>
+    <item>
+      <title>How to Contribute to Open Source? (For Beginners)</title>
+      <link>//localhost:4321/blog/contribute-to-open-source/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/blog/contribute-to-open-source/</guid>
+      <description>Contributing to open source is a great way to learn, teach, and build experience in any skill.&#xA;First of all you must be familiar with basic Git/GitHub functionalities (i.e. What is commit, repository, fork, branches, merging, merge conflicts, etc).&#xA;Improve the software you rely on! Improve existing skills. Meet and build a network of people having similar interests as like you. Find mentors or teach others. Build public artifacts to build a reputation and career.</description>
     </item>
     <item>
       <title>Create a simple and attractive Contact form for your website without PHP!</title>
-      <link>//localhost:4321/blog/contact-form-without-php/contact-form-without-php/</link>
+      <link>//localhost:4321/blog/contact-form-without-php/</link>
       <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/contact-form-without-php/contact-form-without-php/</guid>
+      <guid>//localhost:4321/blog/contact-form-without-php/</guid>
       <description>Contact form is an essential feature of any website. Every website has a contact form to receive some important feedback or suggestions from their potential visitors or customers.&#xA;Generally, contact forms are made responsive using PHP. But here I will show you simplest way to create an attractive form using only HTML and CSS ! You can find its source code here.&#xA;The most important factors of any contact forms are GET and POST requests.</description>
+    </item>
+    <item>
+      <title>Installing or Uninstalling R on Ubuntu</title>
+      <link>//localhost:4321/blog/r-install-uninstall/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/blog/r-install-uninstall/</guid>
+      <description>R is a open source programming language for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing. Created by statisticians Ross Ihaka and Robert Gentleman, R is used among data miners, bioinformaticians and statisticians for data analysis and developing statistical software. Users have created packages to augment the functions of the R language. According to user surveys and studies of scholarly literature databases, R is one of the most commonly used programming languages used in data mining.</description>
+    </item>
+    <item>
+      <title>Installing Julia and Configuring it in Jupyter Notebook.</title>
+      <link>//localhost:4321/blog/julia-install-config/</link>
+      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/blog/julia-install-config/</guid>
+      <description>Julia is a Fast, Dynamic, Reproducible, Composable, Open Source programming language. It has its applications in Data Science, Machine Learning, Parallel Computing, other Scientific domains.&#xA;So to install latest version of Julia on Ubuntu you can follow just the few steps given below.&#xA;Step 1: Open your terminal and change the directory to Downloads.&#xA;$ cd ~/Downloads&#xA;Step 2: Use wget to download the latest compressed Julia Linux Binaries:&#xA;$ wget https://julialang-s3.</description>
+    </item>
+    <item>
+      <title>Sentiment Analysis using NLP</title>
+      <link>//localhost:4321/project/sentiment-analysis/</link>
+      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/project/sentiment-analysis/</guid>
+      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort. Because Speed Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
     </item>
     <item>
       <title>A campfire</title>
@@ -118,13 +160,6 @@
       <link>//localhost:4321/talk/second-seedling/</link>
       <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
       <guid>//localhost:4321/talk/second-seedling/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>A seedling</title>
-      <link>//localhost:4321/talk/seedling/</link>
-      <pubDate>Mon, 13 Jan 2020 14:15:59 -0600</pubDate>
-      <guid>//localhost:4321/talk/seedling/</guid>
       <description></description>
     </item>
     <item>
