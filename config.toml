@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://shreyash.rbind.io"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Shreyash Somvanshi"
@@ -28,9 +28,9 @@ enableEmoji = true
     style = "fruity"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  orgName = "Shreyash Somvanshi"
+  orgLocal = ""
+  description = "Inside you'll find my writing about products and projects I've worked on, along with my personal reflections about learning, and crafting kind tech tools."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
@@ -179,11 +179,11 @@ enableEmoji = true
   [privacy.disqus]
     disable = true
   [privacy.googleAnalytics]
-    disable = true
+    disable = false
     anonymizeIP = true
     respectDoNotTrack = true
   [privacy.instagram]
-    disable = true
+    disable = false
     simple = true
   [privacy.twitter]
     disable = false
