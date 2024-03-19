@@ -37,19 +37,31 @@
   </url><url>
     <loc>//localhost:4321/project/phishing-website-detection/</loc>
   </url><url>
+    <loc>//localhost:4321/categories/</loc>
+    <lastmod>2024-03-14T14:15:59-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/categories/presentation/</loc>
+    <lastmod>2024-03-14T14:15:59-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/categories/project-review/</loc>
+    <lastmod>2024-03-14T14:15:59-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/</loc>
+    <lastmod>2024-03-14T14:15:59-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/talk/synthcheck/</loc>
+    <lastmod>2024-03-14T14:15:59-06:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/talk/</loc>
+    <lastmod>2024-03-14T14:15:59-06:00</lastmod>
+  </url><url>
     <loc>//localhost:4321/contact/</loc>
     <lastmod>2024-03-08T01:00:41-06:00</lastmod>
   </url><url>
     <loc>//localhost:4321/form/</loc>
     <lastmod>2024-03-08T01:00:41-06:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/</loc>
-    <lastmod>2024-03-08T01:00:41-06:00</lastmod>
-  </url><url>
     <loc>//localhost:4321/project/</loc>
-    <lastmod>2023-08-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/categories/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/project/course-recommend-sys/</loc>
@@ -127,9 +139,6 @@
     <loc>//localhost:4321/talk/campfire/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/talk/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>//localhost:4321/categories/workshop/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -144,9 +153,6 @@
   </url><url>
     <loc>//localhost:4321/categories/meetup/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/talk/seedling/</loc>
-    <lastmod>2020-01-13T14:15:59-06:00</lastmod>
   </url><url>
     <loc>//localhost:4321/tags/hugo-site/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
