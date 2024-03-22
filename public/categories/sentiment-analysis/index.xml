@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sentiment Analysis on Shreyash Somvanshi</title>
-    <link>//localhost:4321/categories/sentiment-analysis/</link>
+    <link>http://localhost:4321/categories/sentiment-analysis/</link>
     <description>Recent content in Sentiment Analysis on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 27 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/categories/sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sentiment Analysis using NLP</title>
-      <link>//localhost:4321/project/sentiment-analysis/</link>
+      <link>http://localhost:4321/project/sentiment-analysis/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/sentiment-analysis/</guid>
+      <guid>http://localhost:4321/project/sentiment-analysis/</guid>
       <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort. Because Speed Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
     </item>
   </channel>

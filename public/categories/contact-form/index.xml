@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact Form on Shreyash Somvanshi</title>
-    <link>//localhost:4321/categories/contact-form/</link>
+    <link>http://localhost:4321/categories/contact-form/</link>
     <description>Recent content in Contact Form on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/contact-form/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/categories/contact-form/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Create a simple and attractive Contact form for your website without PHP!</title>
-      <link>//localhost:4321/blog/contact-form-without-php/</link>
+      <link>http://localhost:4321/blog/contact-form-without-php/</link>
       <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/contact-form-without-php/</guid>
+      <guid>http://localhost:4321/blog/contact-form-without-php/</guid>
       <description>Contact form is an essential feature of any website. Every website has a contact form to receive some important feedback or suggestions from their potential visitors or customers.&#xA;Generally, contact forms are made responsive using PHP. But here I will show you simplest way to create an attractive form using only HTML and CSS ! You can find its source code here.&#xA;The most important factors of any contact forms are GET and POST requests.</description>
     </item>
   </channel>

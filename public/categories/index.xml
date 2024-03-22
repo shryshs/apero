@@ -2,122 +2,122 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Shreyash Somvanshi</title>
-    <link>//localhost:4321/categories/</link>
+    <link>http://localhost:4321/categories/</link>
     <description>Recent content in Categories on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 14 Mar 2024 14:15:59 -0600</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presentation</title>
-      <link>//localhost:4321/categories/presentation/</link>
+      <link>http://localhost:4321/categories/presentation/</link>
       <pubDate>Thu, 14 Mar 2024 14:15:59 -0600</pubDate>
-      <guid>//localhost:4321/categories/presentation/</guid>
+      <guid>http://localhost:4321/categories/presentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Project Review</title>
-      <link>//localhost:4321/categories/project-review/</link>
+      <link>http://localhost:4321/categories/project-review/</link>
       <pubDate>Thu, 14 Mar 2024 14:15:59 -0600</pubDate>
-      <guid>//localhost:4321/categories/project-review/</guid>
+      <guid>http://localhost:4321/categories/project-review/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>//localhost:4321/categories/python/</link>
+      <link>http://localhost:4321/categories/python/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/python/</guid>
+      <guid>http://localhost:4321/categories/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Recommendation System</title>
-      <link>//localhost:4321/categories/recommendation-system/</link>
+      <link>http://localhost:4321/categories/recommendation-system/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/recommendation-system/</guid>
+      <guid>http://localhost:4321/categories/recommendation-system/</guid>
       <description></description>
     </item>
     <item>
       <title>Streamlit</title>
-      <link>//localhost:4321/categories/streamlit/</link>
+      <link>http://localhost:4321/categories/streamlit/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/streamlit/</guid>
+      <guid>http://localhost:4321/categories/streamlit/</guid>
       <description></description>
     </item>
     <item>
       <title>Git, Open Source</title>
-      <link>//localhost:4321/categories/git-open-source/</link>
+      <link>http://localhost:4321/categories/git-open-source/</link>
       <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/git-open-source/</guid>
+      <guid>http://localhost:4321/categories/git-open-source/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact Form</title>
-      <link>//localhost:4321/categories/contact-form/</link>
+      <link>http://localhost:4321/categories/contact-form/</link>
       <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/contact-form/</guid>
+      <guid>http://localhost:4321/categories/contact-form/</guid>
       <description></description>
     </item>
     <item>
       <title>Installation</title>
-      <link>//localhost:4321/categories/installation/</link>
+      <link>http://localhost:4321/categories/installation/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/installation/</guid>
+      <guid>http://localhost:4321/categories/installation/</guid>
       <description></description>
     </item>
     <item>
       <title>R</title>
-      <link>//localhost:4321/categories/r/</link>
+      <link>http://localhost:4321/categories/r/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/r/</guid>
+      <guid>http://localhost:4321/categories/r/</guid>
       <description></description>
     </item>
     <item>
       <title>R Studio</title>
-      <link>//localhost:4321/categories/r-studio/</link>
+      <link>http://localhost:4321/categories/r-studio/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/r-studio/</guid>
+      <guid>http://localhost:4321/categories/r-studio/</guid>
       <description></description>
     </item>
     <item>
       <title>Julia</title>
-      <link>//localhost:4321/categories/julia/</link>
+      <link>http://localhost:4321/categories/julia/</link>
       <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/julia/</guid>
+      <guid>http://localhost:4321/categories/julia/</guid>
       <description></description>
     </item>
     <item>
       <title>Sentiment Analysis</title>
-      <link>//localhost:4321/categories/sentiment-analysis/</link>
+      <link>http://localhost:4321/categories/sentiment-analysis/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/sentiment-analysis/</guid>
+      <guid>http://localhost:4321/categories/sentiment-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Workshop</title>
-      <link>//localhost:4321/categories/workshop/</link>
+      <link>http://localhost:4321/categories/workshop/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/workshop/</guid>
+      <guid>http://localhost:4321/categories/workshop/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme Features</title>
-      <link>//localhost:4321/categories/theme-features/</link>
+      <link>http://localhost:4321/categories/theme-features/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/theme-features/</guid>
+      <guid>http://localhost:4321/categories/theme-features/</guid>
       <description></description>
     </item>
     <item>
       <title>Meetup</title>
-      <link>//localhost:4321/categories/meetup/</link>
+      <link>http://localhost:4321/categories/meetup/</link>
       <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      <guid>//localhost:4321/categories/meetup/</guid>
+      <guid>http://localhost:4321/categories/meetup/</guid>
       <description></description>
     </item>
     <item>
       <title>Package</title>
-      <link>//localhost:4321/categories/package/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/categories/package/</guid>
+      <link>http://localhost:4321/categories/package/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/package/</guid>
       <description></description>
     </item>
   </channel>

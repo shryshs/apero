@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CERTIFICATIONS on Shreyash Somvanshi</title>
+    <link>http://localhost:4321/certification/</link>
+    <description>Recent content in CERTIFICATIONS on Shreyash Somvanshi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/certification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create a simple and attractive Contact form for your website without PHP!</title>
+      <link>http://localhost:4321/certification/contact-form-without-php/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/certification/contact-form-without-php/</guid>
+      <description>Contact form is an essential feature of any website. Every website has a contact form to receive some important feedback or suggestions from their potential visitors or customers.&#xA;Generally, contact forms are made responsive using PHP. But here I will show you simplest way to create an attractive form using only HTML and CSS ! You can find its source code here.&#xA;The most important factors of any contact forms are GET and POST requests.</description>
+    </item>
+    <item>
+      <title>Google Data Analytics</title>
+      <link>http://localhost:4321/certification/google-data-analytics/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/certification/google-data-analytics/</guid>
+      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset&#xA;For example, this panelset:&#xA;Hello! &amp;#x1f44b; hello&#xA;Goodbye &amp;#x1f4a8; goodbye&#xA;Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:&#xA;{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:&#xA;Question Which came first: the :chicken: or the :egg:?</description>
+    </item>
+    <item>
+      <title>OCI Data Science Prof</title>
+      <link>http://localhost:4321/certification/oci-data-science/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/certification/oci-data-science/</guid>
+      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset&#xA;For example, this panelset:&#xA;Hello! &amp;#x1f44b; hello&#xA;Goodbye &amp;#x1f4a8; goodbye&#xA;Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:&#xA;{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:&#xA;Question Which came first: the :chicken: or the :egg:?</description>
+    </item>
+    <item>
+      <title>Using panelsets</title>
+      <link>http://localhost:4321/certification/seedling/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/certification/seedling/</guid>
+      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset&#xA;For example, this panelset:&#xA;Hello! &amp;#x1f44b; hello&#xA;Goodbye &amp;#x1f4a8; goodbye&#xA;Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:&#xA;{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:&#xA;Question Which came first: the :chicken: or the :egg:?</description>
+    </item>
+  </channel>
+</rss>

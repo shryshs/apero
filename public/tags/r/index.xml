@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Shreyash Somvanshi</title>
-    <link>//localhost:4321/tags/r/</link>
+    <link>http://localhost:4321/tags/r/</link>
     <description>Recent content in R on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="//localhost:4321/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interactive Dashboard using R Markdown</title>
-      <link>//localhost:4321/project/interactive-dashboard-rmd/</link>
+      <link>http://localhost:4321/project/interactive-dashboard-rmd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/interactive-dashboard-rmd/</guid>
+      <guid>http://localhost:4321/project/interactive-dashboard-rmd/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Shreyash Somvanshi</title>
-    <link>//localhost:4321/tags/</link>
+    <link>http://localhost:4321/tags/</link>
     <description>Recent content in Tags on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recommendation System</title>
-      <link>//localhost:4321/tags/recommendation-system/</link>
+      <link>http://localhost:4321/tags/recommendation-system/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/recommendation-system/</guid>
+      <guid>http://localhost:4321/tags/recommendation-system/</guid>
       <description></description>
     </item>
     <item>
       <title>Streamlit</title>
-      <link>//localhost:4321/tags/streamlit/</link>
+      <link>http://localhost:4321/tags/streamlit/</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/streamlit/</guid>
+      <guid>http://localhost:4321/tags/streamlit/</guid>
       <description></description>
     </item>
     <item>
       <title>Project</title>
-      <link>//localhost:4321/tags/project/</link>
+      <link>http://localhost:4321/tags/project/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/project/</guid>
+      <guid>http://localhost:4321/tags/project/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>//localhost:4321/tags/python/</link>
+      <link>http://localhost:4321/tags/python/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/python/</guid>
+      <guid>http://localhost:4321/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Sentiment Analysis</title>
-      <link>//localhost:4321/tags/sentiment-analysis/</link>
+      <link>http://localhost:4321/tags/sentiment-analysis/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/sentiment-analysis/</guid>
+      <guid>http://localhost:4321/tags/sentiment-analysis/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo-Site</title>
-      <link>//localhost:4321/tags/hugo-site/</link>
+      <link>http://localhost:4321/tags/hugo-site/</link>
       <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/hugo-site/</guid>
+      <guid>http://localhost:4321/tags/hugo-site/</guid>
       <description></description>
     </item>
     <item>
       <title>Dashboard</title>
-      <link>//localhost:4321/tags/dashboard/</link>
+      <link>http://localhost:4321/tags/dashboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/dashboard/</guid>
+      <guid>http://localhost:4321/tags/dashboard/</guid>
       <description></description>
     </item>
     <item>
       <title>Deeplearning</title>
-      <link>//localhost:4321/tags/deeplearning/</link>
+      <link>http://localhost:4321/tags/deeplearning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/deeplearning/</guid>
+      <guid>http://localhost:4321/tags/deeplearning/</guid>
       <description></description>
     </item>
     <item>
       <title>Image-Classification</title>
-      <link>//localhost:4321/tags/image-classification/</link>
+      <link>http://localhost:4321/tags/image-classification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/image-classification/</guid>
+      <guid>http://localhost:4321/tags/image-classification/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>//localhost:4321/tags/markdown/</link>
+      <link>http://localhost:4321/tags/markdown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/markdown/</guid>
+      <guid>http://localhost:4321/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Market Segmentation</title>
-      <link>//localhost:4321/tags/market-segmentation/</link>
+      <link>http://localhost:4321/tags/market-segmentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/market-segmentation/</guid>
+      <guid>http://localhost:4321/tags/market-segmentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Phishing</title>
-      <link>//localhost:4321/tags/phishing/</link>
+      <link>http://localhost:4321/tags/phishing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/phishing/</guid>
+      <guid>http://localhost:4321/tags/phishing/</guid>
       <description></description>
     </item>
     <item>
       <title>R</title>
-      <link>//localhost:4321/tags/r/</link>
+      <link>http://localhost:4321/tags/r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/r/</guid>
+      <guid>http://localhost:4321/tags/r/</guid>
       <description></description>
     </item>
     <item>
       <title>Synthcheck</title>
-      <link>//localhost:4321/tags/synthcheck/</link>
+      <link>http://localhost:4321/tags/synthcheck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/tags/synthcheck/</guid>
+      <guid>http://localhost:4321/tags/synthcheck/</guid>
       <description></description>
     </item>
   </channel>

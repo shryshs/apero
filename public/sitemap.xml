@@ -2,200 +2,202 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:4321/collection/day02/01-netlify/</loc>
+    <loc>http://localhost:4321/certification/day02/01-netlify/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/collection/day01/01-github/</loc>
+    <loc>http://localhost:4321/certification/day01/01-github/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/collection/prework/</loc>
+    <loc>http://localhost:4321/certification/prework/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/collection/day01/</loc>
+    <loc>http://localhost:4321/certification/day01/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/collection/day01/02-postcards/</loc>
+    <loc>http://localhost:4321/certification/day01/02-postcards/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/collection/day02/02-blogdown/</loc>
+    <loc>http://localhost:4321/certification/day02/02-blogdown/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/collection/day02/</loc>
+    <loc>http://localhost:4321/certification/day02/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/collection/day01/03-distill/</loc>
+    <loc>http://localhost:4321/certification/day01/03-distill/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/collection/day02/03-blogdown/</loc>
+    <loc>http://localhost:4321/certification/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/project/synthcheck/</loc>
+    <loc>http://localhost:4321/project/synthcheck/</loc>
   </url><url>
-    <loc>//localhost:4321/project/ev-market-segmentation/</loc>
+    <loc>http://localhost:4321/project/ev-market-segmentation/</loc>
   </url><url>
-    <loc>//localhost:4321/project/interactive-dashboard-rmd/</loc>
+    <loc>http://localhost:4321/project/interactive-dashboard-rmd/</loc>
   </url><url>
-    <loc>//localhost:4321/project/phishing-website-detection/</loc>
+    <loc>http://localhost:4321/project/phishing-website-detection/</loc>
   </url><url>
-    <loc>//localhost:4321/categories/</loc>
+    <loc>http://localhost:4321/categories/</loc>
     <lastmod>2024-03-14T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/presentation/</loc>
+    <loc>http://localhost:4321/categories/presentation/</loc>
     <lastmod>2024-03-14T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/project-review/</loc>
+    <loc>http://localhost:4321/categories/project-review/</loc>
     <lastmod>2024-03-14T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/</loc>
+    <loc>http://localhost:4321/</loc>
     <lastmod>2024-03-14T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/talk/synthcheck/</loc>
+    <loc>http://localhost:4321/talk/synthcheck/</loc>
     <lastmod>2024-03-14T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/talk/</loc>
+    <loc>http://localhost:4321/talk/</loc>
     <lastmod>2024-03-14T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/contact/</loc>
+    <loc>http://localhost:4321/contact/</loc>
     <lastmod>2024-03-08T01:00:41-06:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/form/</loc>
+    <loc>http://localhost:4321/form/</loc>
     <lastmod>2024-03-08T01:00:41-06:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/project/</loc>
+    <loc>http://localhost:4321/project/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/project/course-recommend-sys/</loc>
+    <loc>http://localhost:4321/project/course-recommend-sys/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/python/</loc>
+    <loc>http://localhost:4321/categories/python/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/recommendation-system/</loc>
+    <loc>http://localhost:4321/tags/recommendation-system/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/recommendation-system/</loc>
+    <loc>http://localhost:4321/categories/recommendation-system/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/streamlit/</loc>
+    <loc>http://localhost:4321/tags/streamlit/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/streamlit/</loc>
+    <loc>http://localhost:4321/categories/streamlit/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/</loc>
+    <loc>http://localhost:4321/tags/</loc>
     <lastmod>2023-08-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/</loc>
+    <loc>http://localhost:4321/blog/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/git-open-source/</loc>
+    <loc>http://localhost:4321/categories/git-open-source/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/contribute-to-open-source/</loc>
+    <loc>http://localhost:4321/blog/contribute-to-open-source/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/contact-form/</loc>
+    <loc>http://localhost:4321/categories/contact-form/</loc>
     <lastmod>2023-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/contact-form-without-php/</loc>
+    <loc>http://localhost:4321/blog/contact-form-without-php/</loc>
     <lastmod>2023-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/installation/</loc>
+    <loc>http://localhost:4321/categories/installation/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/r-install-uninstall/</loc>
+    <loc>http://localhost:4321/blog/r-install-uninstall/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/r/</loc>
+    <loc>http://localhost:4321/categories/r/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/r-studio/</loc>
+    <loc>http://localhost:4321/categories/r-studio/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/julia-install-config/</loc>
+    <loc>http://localhost:4321/blog/julia-install-config/</loc>
     <lastmod>2022-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/julia/</loc>
+    <loc>http://localhost:4321/categories/julia/</loc>
     <lastmod>2022-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/project/</loc>
+    <loc>http://localhost:4321/tags/project/</loc>
     <lastmod>2022-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/python/</loc>
+    <loc>http://localhost:4321/tags/python/</loc>
     <lastmod>2022-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/sentiment-analysis/</loc>
+    <loc>http://localhost:4321/tags/sentiment-analysis/</loc>
     <lastmod>2022-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/sentiment-analysis/</loc>
+    <loc>http://localhost:4321/categories/sentiment-analysis/</loc>
     <lastmod>2022-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/project/sentiment-analysis/</loc>
+    <loc>http://localhost:4321/project/sentiment-analysis/</loc>
     <lastmod>2022-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/collection/</loc>
+    <loc>http://localhost:4321/certification/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/talk/campfire/</loc>
+    <loc>http://localhost:4321/talk/campfire/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/workshop/</loc>
+    <loc>http://localhost:4321/categories/workshop/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/theme-features/</loc>
+    <loc>http://localhost:4321/categories/theme-features/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/blog/seedling/</loc>
+    <loc>http://localhost:4321/blog/seedling/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/talk/second-seedling/</loc>
+    <loc>http://localhost:4321/talk/second-seedling/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/meetup/</loc>
+    <loc>http://localhost:4321/categories/meetup/</loc>
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/tags/hugo-site/</loc>
+    <loc>http://localhost:4321/tags/hugo-site/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/package/</loc>
+    <loc>http://localhost:4321/categories/package/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/project/giraffes/</loc>
+    <loc>http://localhost:4321/project/giraffes/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/project/penguins/</loc>
+    <loc>http://localhost:4321/project/penguins/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/project/bakeoff/</loc>
+    <loc>http://localhost:4321/project/bakeoff/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/elements/</loc>
+    <loc>http://localhost:4321/elements/</loc>
     <lastmod>2019-02-18T12:27:33-06:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/contributors/</loc>
+    <loc>http://localhost:4321/me/</loc>
   </url><url>
-    <loc>//localhost:4321/tags/dashboard/</loc>
+    <loc>http://localhost:4321/contributors/</loc>
   </url><url>
-    <loc>//localhost:4321/tags/deeplearning/</loc>
+    <loc>http://localhost:4321/tags/dashboard/</loc>
   </url><url>
-    <loc>//localhost:4321/tags/image-classification/</loc>
+    <loc>http://localhost:4321/tags/deeplearning/</loc>
   </url><url>
-    <loc>//localhost:4321/license/</loc>
+    <loc>http://localhost:4321/tags/image-classification/</loc>
   </url><url>
-    <loc>//localhost:4321/tags/markdown/</loc>
+    <loc>http://localhost:4321/license/</loc>
   </url><url>
-    <loc>//localhost:4321/tags/market-segmentation/</loc>
+    <loc>http://localhost:4321/tags/markdown/</loc>
   </url><url>
-    <loc>//localhost:4321/tags/phishing/</loc>
+    <loc>http://localhost:4321/tags/market-segmentation/</loc>
   </url><url>
-    <loc>//localhost:4321/privacypolicy/</loc>
+    <loc>http://localhost:4321/tags/phishing/</loc>
   </url><url>
-    <loc>//localhost:4321/tags/r/</loc>
+    <loc>http://localhost:4321/privacypolicy/</loc>
   </url><url>
-    <loc>//localhost:4321/series/</loc>
+    <loc>http://localhost:4321/tags/r/</loc>
   </url><url>
-    <loc>//localhost:4321/tags/synthcheck/</loc>
+    <loc>http://localhost:4321/series/</loc>
   </url><url>
-    <loc>//localhost:4321/TandC/</loc>
+    <loc>http://localhost:4321/tags/synthcheck/</loc>
+  </url><url>
+    <loc>http://localhost:4321/terms/</loc>
   </url>
 </urlset>

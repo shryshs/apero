@@ -128,8 +128,8 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Me"
-    url = "/about/"
+    title = "About"
+    url = "/me/"
     weight = 1
   [[menu.header]]
     name = "Blog"
@@ -149,7 +149,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Certifications"
     title = "Certifications"
-    url = "/collection/"
+    url = "/certification/"
     weight = 5
   [[menu.header]]
     name = "Contact"
@@ -161,7 +161,7 @@ enableEmoji = true
   [[menu.footer]]
     name = "T&C"
     title = "T&C"
-    url = "/TandC/"
+    url = "/terms/"
     weight = 1
   [[menu.footer]]
     name = "Privacy Policy"

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git, Open Source on Shreyash Somvanshi</title>
-    <link>//localhost:4321/categories/git-open-source/</link>
+    <link>http://localhost:4321/categories/git-open-source/</link>
     <description>Recent content in Git, Open Source on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/categories/git-open-source/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/categories/git-open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Contribute to Open Source? (For Beginners)</title>
-      <link>//localhost:4321/blog/contribute-to-open-source/</link>
+      <link>http://localhost:4321/blog/contribute-to-open-source/</link>
       <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/blog/contribute-to-open-source/</guid>
+      <guid>http://localhost:4321/blog/contribute-to-open-source/</guid>
       <description>Contributing to open source is a great way to learn, teach, and build experience in any skill.&#xA;First of all you must be familiar with basic Git/GitHub functionalities (i.e. What is commit, repository, fork, branches, merging, merge conflicts, etc).&#xA;Improve the software you rely on! Improve existing skills. Meet and build a network of people having similar interests as like you. Find mentors or teach others. Build public artifacts to build a reputation and career.</description>
     </item>
   </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image-Classification on Shreyash Somvanshi</title>
-    <link>//localhost:4321/tags/image-classification/</link>
+    <link>http://localhost:4321/tags/image-classification/</link>
     <description>Recent content in Image-Classification on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="//localhost:4321/tags/image-classification/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/tags/image-classification/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SynthCheck: A Synthetic Image Identification using Deep Learning</title>
-      <link>//localhost:4321/project/synthcheck/</link>
+      <link>http://localhost:4321/project/synthcheck/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/project/synthcheck/</guid>
+      <guid>http://localhost:4321/project/synthcheck/</guid>
       <description>🔗 GitHub Description SynthCheck: A Synthetic Image Identification using Deep Learning&#xA;SynthCheck is an innovative deep learning solution designed for the accurate identification and classification of synthetic images. Leveraging advanced neural network architectures, SynthCheck excels in distinguishing between real and artificially generated images. This tool plays a crucial role in various applications, from combating deepfake threats to enhancing image integrity verification. SynthCheck empowers users to ensure the authenticity of visual content in a world where synthetic media continues to pose challenges, providing a robust and reliable solution for synthetic image detection.</description>
     </item>
   </channel>
