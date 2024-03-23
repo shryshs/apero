@@ -2,33 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:4321/certification/day02/01-netlify/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/certification/day01/01-github/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/certification/prework/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/certification/day01/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/certification/day01/02-postcards/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/certification/day02/02-blogdown/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/certification/day02/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/certification/day01/03-distill/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/certification/day02/03-blogdown/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/project/synthcheck/</loc>
   </url><url>
     <loc>http://localhost:4321/project/ev-market-segmentation/</loc>
@@ -94,10 +67,19 @@
     <loc>http://localhost:4321/blog/contribute-to-open-source/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/categories/certification/</loc>
+    <lastmod>2023-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/certification/</loc>
+    <lastmod>2023-01-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/categories/contact-form/</loc>
     <lastmod>2023-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/contact-form-without-php/</loc>
+    <lastmod>2023-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/certification/contact-form-without-php/</loc>
     <lastmod>2023-01-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/installation/</loc>
@@ -133,19 +115,25 @@
     <loc>http://localhost:4321/project/sentiment-analysis/</loc>
     <lastmod>2022-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/certification/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/talk/campfire/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/workshop/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/certification/google-data-analytics/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/certification/oci-data-science/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/categories/theme-features/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/seedling/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/certification/seedling/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/talk/second-seedling/</loc>
@@ -155,13 +143,10 @@
     <lastmod>2021-01-01T14:15:59-06:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/hugo-site/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/package/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/project/giraffes/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/project/penguins/</loc>
     <lastmod>2019-07-02T00:00:00+00:00</lastmod>
