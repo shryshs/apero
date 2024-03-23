@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="generator" content="Hugo 0.123.7">
-<title>SynthCheck: A Synthetic Image Identification using Deep Learning | Shreyash Somvanshi</title>
+<title>SynthCheck | Shreyash Somvanshi</title>
 
 
 <meta property="twitter:site" content="@shreyash___s">
@@ -24,12 +24,12 @@
   
     
   
-<meta name="description" content="Course Recommendation System">
+<meta name="description" content="A Synthetic Image Identification using Deep Learning and Explainable A.I.">
 
 
 <meta property="og:site_name" content="Shreyash Somvanshi">
-<meta property="og:title" content="SynthCheck: A Synthetic Image Identification using Deep Learning | Shreyash Somvanshi">
-<meta property="og:description" content="Course Recommendation System" />
+<meta property="og:title" content="SynthCheck | Shreyash Somvanshi">
+<meta property="og:description" content="A Synthetic Image Identification using Deep Learning and Explainable A.I." />
 <meta property="og:type" content="page" />
 <meta property="og:url" content="http://localhost:4321/project/synthcheck/" />
 <meta property="og:locale" content="en">
@@ -43,11 +43,13 @@
         <meta name="twitter:image" content="http://localhost:4321/project/synthcheck/featured-aivsreal.jpg" >
     
     
-  <meta itemprop="name" content="SynthCheck: A Synthetic Image Identification using Deep Learning">
-<meta itemprop="description" content="Course Recommendation System">
-
-<meta itemprop="wordCount" content="99"><meta itemprop="image" content="http://localhost:4321/project/synthcheck/featured-aivsreal.jpg" />
-<meta itemprop="keywords" content="synthcheck,image-classification,deeplearning,project,streamlit," />
+  <meta itemprop="name" content="SynthCheck">
+<meta itemprop="description" content="Introduction:
+Welcome to our Synthcheck: A Synthetic Image Identification using Deep Learning project! Our project aims to develop a system capable of detecting synthetic or manipulated images using advanced deep learning techniques, while also providing explanations for model predictions. Objective:
+Develop a deep learning model to classify images as either real or synthetic based on their visual characteristics. Incorporate explainable AI techniques to provide insights into the model&rsquo;s decision-making process and highlight features indicative of synthetic images."><meta itemprop="datePublished" content="2023-10-16T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2023-10-16T00:00:00+00:00" />
+<meta itemprop="wordCount" content="410"><meta itemprop="image" content="http://localhost:4321/project/synthcheck/featured-aivsreal.jpg" />
+<meta itemprop="keywords" content="project,deep learning,image classification,explainable ai,xai,streamlit," />
   
   <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
@@ -63,7 +65,7 @@
   <script src="/main.min.f79fc9a2c8c6f363067ffaff6d940824c443bd87f77faa5f239ea3e943962193.js" type="text/javascript"></script>
 </head>
 <body>
-      <div class="grid-container">
+      <div class="grid-container single">
 <header class="site-header pt4 pb2 mb4 bb b--transparent ph5 headroom z-max" role="banner">
   <nav class="site-nav db dt-l w-100" role="navigation">
     <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="http://localhost:4321/" title="Home">
@@ -110,78 +112,166 @@
   <section class="page-content mw7 center">
     <article class="post-content pa0 ph4-l">
       <header class="post-header">
-        <h1 class="f1 lh-solid measure-narrow mb3 fw4">SynthCheck: A Synthetic Image Identification using Deep Learning</h1>
-        
-        <p class="f6 measure lh-copy mv1"></p>
-        <p class="f7 db mv0 ttu">January 1, 0001</p>
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">SynthCheck</h1>
+        <h4 class="f4 mt0 mb4 lh-title measure">A Synthetic Image Identification using Deep Learning and Explainable A.I.</h4>
+        <p class="f6 measure lh-copy mv1">By Shreyash Somvanshi in <a href="http://localhost:4321/categories/image-classification">image classification</a>  <a href="http://localhost:4321/categories/synthetic">synthetic</a>  <a href="http://localhost:4321/categories/python">python</a>  <a href="http://localhost:4321/categories/explainable-ai">explainable ai</a>  <a href="http://localhost:4321/categories/xai">xai</a> </p>
+        <p class="f7 db mv0 ttu">October 16, 2023</p>
 
+      
+      <div class="ph0 pt5">
+        
+    
+    
+    
+    
+    
+    
+    
+      
+      
+  <a class="btn-links mr2 ba dib" href="https://testsynthcheckshr1.streamlit.app/" target="_blank" rel="noopener"><i class="fa fa-globe fa-lg fa-fw mr2"></i>website</a>
+
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+      
+  <a class="btn-links mr2 ba dib" href="https://github.com/ShreyashSomvanshi/SynthCheck/" target="_blank" rel="noopener"><i class="fab fa-github fa-lg fa-fw mr2"></i>code</a>
+
+
+      </div>
       
 
       </header>
       <section class="post-body pt5 pb4">
-        
-
-
-
-<h3 id="-githubhttpsgithubcomshreyashsomvanshisynthcheck">🔗 
-<a href="https://github.com/ShreyashSomvanshi/SynthCheck" target="_blank" rel="noopener">GitHub</a>
-  <a href="#-githubhttpsgithubcomshreyashsomvanshisynthcheck"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0 0h24v24H0z" fill="currentColor"></path>
-      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
-    </svg></a>
-</h3>
-
-
-
-
-<h2 id="description">Description
-  <a href="#description"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0 0h24v24H0z" fill="currentColor"></path>
-      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
-    </svg></a>
-</h2>
-<p><strong>SynthCheck: A Synthetic Image Identification using Deep Learning</strong></p>
-<p>SynthCheck is an innovative deep learning solution designed for the accurate identification and classification of synthetic images. Leveraging advanced neural network architectures, SynthCheck excels in distinguishing between real and artificially generated images. This tool plays a crucial role in various applications, from combating deepfake threats to enhancing image integrity verification. SynthCheck empowers users to ensure the authenticity of visual content in a world where synthetic media continues to pose challenges, providing a robust and reliable solution for synthetic image detection.</p>
-<!-- ![](/projects/sample-proj/img1.jpg) -->
-
-
-
-
-<h3 id="link-to-check-this-deployed-project">Link to check this deployed project:
-  <a href="#link-to-check-this-deployed-project"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0 0h24v24H0z" fill="currentColor"></path>
-      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
-    </svg></a>
-</h3>
-<p>🌐 
-<a href="https://testsynthcheckshr1.streamlit.app" target="_blank" rel="noopener">https://testsynthcheckshr1.streamlit.app</a></p>
+        <ol>
+<li>
+<p><strong>Introduction:</strong></p>
+<ul>
+<li>Welcome to our Synthcheck: A Synthetic Image Identification using Deep Learning project!</li>
+<li>Our project aims to develop a system capable of detecting synthetic or manipulated images using advanced deep learning techniques, while also providing explanations for model predictions.</li>
+</ul>
+</li>
+<li>
+<p><strong>Objective:</strong></p>
+<ul>
+<li>Develop a deep learning model to classify images as either real or synthetic based on their visual characteristics.</li>
+<li>Incorporate explainable AI techniques to provide insights into the model&rsquo;s decision-making process and highlight features indicative of synthetic images.</li>
+</ul>
+</li>
+<li>
+<p><strong>Dataset Description:</strong></p>
+<ul>
+<li>Utilized a dataset containing labeled examples of real and synthetic images, including computer-generated graphics, deepfakes, and edited photographs.</li>
+<li>Sourced the dataset from [source], specifically curated for synthetic image detection tasks.</li>
+</ul>
+</li>
+<li>
+<p><strong>Data Preprocessing:</strong></p>
+<ul>
+<li>Preprocessed the image data by resizing, normalizing pixel values, and augmenting to increase dataset diversity.</li>
+<li>Conducted data augmentation techniques such as rotation, flipping, and cropping to enhance model generalization.</li>
+</ul>
+</li>
+<li>
+<p><strong>Deep Learning Techniques:</strong></p>
+<ul>
+<li>Implemented convolutional neural networks (CNNs) such as ResNet, VGG, or EfficientNet for image classification tasks.</li>
+<li>Explored transfer learning and fine-tuning strategies using pre-trained models for improved performance on limited data.</li>
+</ul>
+</li>
+<li>
+<p><strong>Explainable AI (XAI) Techniques:</strong></p>
+<ul>
+<li>Incorporated techniques such as Grad-CAM, SHAP, or LIME to generate explanations for model predictions.</li>
+<li>Visualized important regions of input images and highlighted features influencing model decisions, providing transparency and interpretability.</li>
+</ul>
+</li>
+<li>
+<p><strong>Implementation Details:</strong></p>
+<ul>
+<li>Developed the synthetic image identification model using Python and deep learning frameworks like TensorFlow or PyTorch.</li>
+<li>Created a Jupyter Notebook or Python script to demonstrate model training, evaluation, and explainable AI analysis.</li>
+</ul>
+</li>
+<li>
+<p><strong>Evaluation Metrics:</strong></p>
+<ul>
+<li>Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score.</li>
+<li>Assessed the reliability and interpretability of explanations generated by the XAI techniques.</li>
+</ul>
+</li>
+<li>
+<p><strong>Application Scenarios:</strong></p>
+<ul>
+<li>Explored real-world applications where synthetic image identification can be beneficial, such as forensic analysis, media authenticity verification, and content moderation.</li>
+<li>Demonstrated how explainable AI techniques provide valuable insights for forensic investigators, journalists, and content moderators.</li>
+</ul>
+</li>
+<li>
+<p><strong>Future Enhancements:</strong></p>
+<ul>
+<li>Proposed enhancements include integrating multimodal analysis for detecting audio-visual deepfakes, exploring adversarial robustness techniques to improve model reliability, and deploying the system as an API for real-time image verification.</li>
+</ul>
+</li>
+<li>
+<p><strong>Conclusion:</strong></p>
+<ul>
+<li>Our Synthetic Image Identification Project combines deep learning and explainable AI techniques to detect synthetic images and provide transparent explanations for model predictions.</li>
+<li>We believe that our system can contribute to combating the spread of misinformation and ensuring the integrity of digital content in various domains.</li>
+</ul>
+</li>
+<li>
+<p><strong>References:</strong></p>
+<ul>
+<li>Citations or links to relevant research papers, datasets, and libraries used in the project.</li>
+</ul>
+</li>
+<li>
+<p><strong>Acknowledgments:</strong></p>
+<ul>
+<li>Thanks to individuals/organizations for their support, guidance, and contributions to the project.</li>
+</ul>
+</li>
+</ol>
 
         
         <details closed class="f6 fw7 input-reset">
   <dl class="f6 lh-copy">
     <dt class="fw7">Posted on:</dt>
-    <dd class="fw5 ml0">January 1, 0001</dd>
+    <dd class="fw5 ml0">October 16, 2023</dd>
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
-    <dd class="fw5 ml0">1 minute read, 99 words</dd>
+    <dd class="fw5 ml0">2 minute read, 410 words</dd>
+  </dl>
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Categories:</dt>
+    <dd class="fw5 ml0"> <a href="http://localhost:4321/categories/image-classification">image classification</a>  <a href="http://localhost:4321/categories/synthetic">synthetic</a>  <a href="http://localhost:4321/categories/python">python</a>  <a href="http://localhost:4321/categories/explainable-ai">explainable ai</a>  <a href="http://localhost:4321/categories/xai">xai</a> </dd>
   </dl>
   
   
   
   <dl class="f6 lh-copy">
     <dt class="fw7">Tags:</dt>
-    <dd class="fw5 ml0"> <a href="http://localhost:4321/tags/synthcheck">synthcheck</a>  <a href="http://localhost:4321/tags/image-classification">image-classification</a>  <a href="http://localhost:4321/tags/deeplearning">deeplearning</a>  <a href="http://localhost:4321/tags/project">project</a>  <a href="http://localhost:4321/tags/streamlit">streamlit</a> </dd>
+    <dd class="fw5 ml0"> <a href="http://localhost:4321/tags/project">project</a>  <a href="http://localhost:4321/tags/deep-learning">deep learning</a>  <a href="http://localhost:4321/tags/image-classification">image classification</a>  <a href="http://localhost:4321/tags/explainable-ai">explainable ai</a>  <a href="http://localhost:4321/tags/xai">xai</a>  <a href="http://localhost:4321/tags/streamlit">streamlit</a> </dd>
   </dl>
   
   <dl class="f6 lh-copy">
     <dt class="fw7">See Also:</dt>
     
-    <dd class="fw5 ml0"><a href="/project/course-recommend-sys/">Course Recommendation System</a></dd>
+    <dd class="fw5 ml0"><a href="/project/interactive-dashboard-rmd/">Interactive Dashboard on U.S. Car Failure Data using RMd</a></dd>
     
-    <dd class="fw5 ml0"><a href="/project/sentiment-analysis/">Sentiment Analysis using NLP</a></dd>
+    <dd class="fw5 ml0"><a href="/project/course-recommend-sys/">Coursify: A Course Recommendation System</a></dd>
     
-    <dd class="fw5 ml0"><a href="/project/phishing-website-detection/">Phishing Website Detection</a></dd>
+    <dd class="fw5 ml0"><a href="/project/ev-market-segmentation/">Market Segmentation of Electric Vehicles</a></dd>
     
   </dl>
 </details>
@@ -194,7 +284,7 @@
   
   
     <a class="next dtc pl2 tr v-top fw6"
-    href="http://localhost:4321/project/ev-market-segmentation/">Market Segmentation of Electric Vehicles &rarr;</a>
+    href="http://localhost:4321/project/interactive-dashboard-rmd/">Interactive Dashboard on U.S. Car Failure Data using RMd &rarr;</a>
   
 </div>
 

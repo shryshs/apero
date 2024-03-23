@@ -23,24 +23,59 @@
       <description></description>
     </item>
     <item>
+      <title>Explainable Ai</title>
+      <link>http://localhost:4321/categories/explainable-ai/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/explainable-ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image Classification</title>
+      <link>http://localhost:4321/categories/image-classification/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/image-classification/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Python</title>
       <link>http://localhost:4321/categories/python/</link>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/categories/python/</guid>
       <description></description>
     </item>
     <item>
-      <title>Recommendation System</title>
-      <link>http://localhost:4321/categories/recommendation-system/</link>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/recommendation-system/</guid>
+      <title>Synthetic</title>
+      <link>http://localhost:4321/categories/synthetic/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/synthetic/</guid>
       <description></description>
     </item>
     <item>
-      <title>Streamlit</title>
-      <link>http://localhost:4321/categories/streamlit/</link>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/streamlit/</guid>
+      <title>Xai</title>
+      <link>http://localhost:4321/categories/xai/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/xai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dashboard</title>
+      <link>http://localhost:4321/categories/dashboard/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/dashboard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R</title>
+      <link>http://localhost:4321/categories/r/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>System</title>
+      <link>http://localhost:4321/categories/system/</link>
+      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/system/</guid>
       <description></description>
     </item>
     <item>
@@ -65,17 +100,24 @@
       <description></description>
     </item>
     <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:4321/categories/machine-learning/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Market Segmentation</title>
+      <link>http://localhost:4321/categories/market-segmentation/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/market-segmentation/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Installation</title>
       <link>http://localhost:4321/categories/installation/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/categories/installation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>R</title>
-      <link>http://localhost:4321/categories/r/</link>
-      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/r/</guid>
       <description></description>
     </item>
     <item>
@@ -97,6 +139,20 @@
       <link>http://localhost:4321/categories/sentiment-analysis/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/categories/sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Streamlit</title>
+      <link>http://localhost:4321/categories/streamlit/</link>
+      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/streamlit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project</title>
+      <link>http://localhost:4321/categories/project/</link>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/project/</guid>
       <description></description>
     </item>
     <item>
@@ -123,8 +179,15 @@
     <item>
       <title>Package</title>
       <link>http://localhost:4321/categories/package/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/categories/package/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recommendation System</title>
+      <link>http://localhost:4321/categories/recommendation-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/recommendation-system/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,14 +1,14 @@
 ---
 title: "Shreyash Somvanshi"
-subtitle: "A.I. & Data Science Engineer"
-description: "Hi there! I'm a behavioral scientist + former professor turned data scientist + professional educator turned product manager, which makes perfect sense once you get to know me. <br><br>I am passionate about creating software that earns users’ love, and I have a real knack for designing product experiences that shine. Inside, you'll find my writing about products and projects I've worked on, along with reflections about learning, teaching, and crafting kind tech tools."
+subtitle: "A.I. & Data Science Engineer | Cybersecurity Analyst"
+description: " Welcome! 👋, I’m a data enthusiast passionate about decoding the world’s complexities through data. Explore my data-driven projects, dive into the latest trends in Data Science, and connect with me to uncover the incredible potential of this field. <br><br> Let’s turn data into decisions."
 images:
   - img/Shreyash.jpg
 image_left: false
 text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
-action_link: /about
+action_link: /me
 action_label: "About me &rarr;"
 action_type: text # text, button
 type: home

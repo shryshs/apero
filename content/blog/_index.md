@@ -1,8 +1,7 @@
 ---
 title: BLOGS
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
+  Discover expert insights and analysis across technology, business, and lifestyle. Stay ahead with the latest trends and industry developments. 
 author: "Shreyash Somvanshi"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
@@ -14,14 +13,12 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Thoughts
+  title: BLOGS
   description: |
-    This is a fully featured blog that supports categories,
-    tags, series, and pagination. Even this sidebar offers 
-    a ton of customizations.
+    Discover expert insights and analysis across technology, business, and lifestyle. Stay ahead with the latest trends and industry developments. 
     
-    Check out the _index.md file in the /blog folder 
-    to edit this content. 
+    Join the conversation and elevate your knowledge with our concise and informative articles.
+    
   author: "Shreyash Somvanshi"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phishing Detection on Shreyash Somvanshi</title>
+    <link>http://localhost:4321/tags/phishing-detection/</link>
+    <description>Recent content in Phishing Detection on Shreyash Somvanshi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/tags/phishing-detection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phishing Website Detection</title>
+      <link>http://localhost:4321/project/phishing-website-detection/</link>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/phishing-website-detection/</guid>
+      <description>Introduction:&#xA;Welcome to our Phishing Website Detection Project! Our project aims to develop a system capable of automatically detecting phishing websites to enhance online security. Objective:&#xA;Develop a machine learning model to classify websites as legitimate or phishing based on their characteristics. Explore the use of features such as URL structure, domain age, SSL certificates, and website content to identify potential phishing attempts. Dataset Description:&#xA;Utilized a dataset containing labeled examples of legitimate and phishing websites.</description>
+    </item>
+  </channel>
+</rss>
