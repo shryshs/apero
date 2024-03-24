@@ -30,11 +30,25 @@
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.&#xA;Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
     </item>
     <item>
+      <title>Explainable A.I.</title>
+      <link>http://localhost:4321/certification/explainable-ai/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/certification/explainable-ai/</guid>
+      <description>&#xA;Learnings: kk kk </description>
+    </item>
+    <item>
       <title>SynthCheck</title>
       <link>http://localhost:4321/project/synthcheck/</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/synthcheck/</guid>
       <description>Introduction:&#xA;Welcome to our Synthcheck: A Synthetic Image Identification using Deep Learning project! Our project aims to develop a system capable of detecting synthetic or manipulated images using advanced deep learning techniques, while also providing explanations for model predictions. Objective:&#xA;Develop a deep learning model to classify images as either real or synthetic based on their visual characteristics. Incorporate explainable AI techniques to provide insights into the model&amp;rsquo;s decision-making process and highlight features indicative of synthetic images.</description>
+    </item>
+    <item>
+      <title>OCI Certified Data Science Professional</title>
+      <link>http://localhost:4321/certification/oci-data-science/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/certification/oci-data-science/</guid>
+      <description>&#xA;Learnings: kk kk </description>
     </item>
     <item>
       <title>Interactive Dashboard on U.S. Car Failure Data using RMd</title>
@@ -51,6 +65,13 @@
       <description>Introduction:&#xA;Welcome to our Course Recommendation System Project! Our system assists users in finding relevant courses based on their interests and preferences. Objective:&#xA;Develop a recommendation system to enhance users&amp;rsquo; learning experience by suggesting courses tailored to their needs. Dataset Description:&#xA;Utilized a dataset containing course information such as titles, descriptions, categories, and user ratings. Sourced the dataset from [source], a platform specializing in online courses. Data Preprocessing:&#xA;Cleaned the dataset, handled missing values, and transformed categorical variables for analysis.</description>
     </item>
     <item>
+      <title>Python for Data Science - Corise</title>
+      <link>http://localhost:4321/certification/corise-py-datasci/</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/certification/corise-py-datasci/</guid>
+      <description>&#xA;Learnings: kk kk </description>
+    </item>
+    <item>
       <title>How to Contribute to Open Source? (For Beginners)</title>
       <link>http://localhost:4321/blog/contribute-to-open-source/</link>
       <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
@@ -62,13 +83,6 @@
       <link>http://localhost:4321/blog/contact-form-without-php/</link>
       <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/blog/contact-form-without-php/</guid>
-      <description>Contact form is an essential feature of any website. Every website has a contact form to receive some important feedback or suggestions from their potential visitors or customers.&#xA;Generally, contact forms are made responsive using PHP. But here I will show you simplest way to create an attractive form using only HTML and CSS ! You can find its source code here.&#xA;The most important factors of any contact forms are GET and POST requests.</description>
-    </item>
-    <item>
-      <title>Explainable A.I.</title>
-      <link>http://localhost:4321/certification/contact-form-without-php/</link>
-      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/certification/contact-form-without-php/</guid>
       <description>Contact form is an essential feature of any website. Every website has a contact form to receive some important feedback or suggestions from their potential visitors or customers.&#xA;Generally, contact forms are made responsive using PHP. But here I will show you simplest way to create an attractive form using only HTML and CSS ! You can find its source code here.&#xA;The most important factors of any contact forms are GET and POST requests.</description>
     </item>
     <item>
@@ -100,11 +114,39 @@
       <description>Introduction:&#xA;Welcome to our Sentiment Analysis Project! Our project aims to analyze the sentiment of text data to understand public opinion, feedback, or emotions expressed in various contexts. Objective:&#xA;Develop a sentiment analysis model to automatically classify text data into positive, negative, or neutral sentiments. Explore how sentiment analysis can be applied to social media posts, product reviews, or customer feedback to gain valuable insights. Dataset Description:&#xA;Utilized a dataset containing text data, such as social media posts, customer reviews, or movie reviews, labeled with sentiment labels.</description>
     </item>
     <item>
+      <title>Database Management Systems - NPTEL</title>
+      <link>http://localhost:4321/certification/dbms-nptel/</link>
+      <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/certification/dbms-nptel/</guid>
+      <description>&#xA;Learnings: kk kk </description>
+    </item>
+    <item>
+      <title>Google Data Analytics - Coursera</title>
+      <link>http://localhost:4321/certification/google-data-analytics/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/certification/google-data-analytics/</guid>
+      <description>&#xA;Learnings: kk kk </description>
+    </item>
+    <item>
       <title>Phishing Website Detection</title>
       <link>http://localhost:4321/project/phishing-website-detection/</link>
       <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/phishing-website-detection/</guid>
       <description>Introduction:&#xA;Welcome to our Phishing Website Detection Project! Our project aims to develop a system capable of automatically detecting phishing websites to enhance online security. Objective:&#xA;Develop a machine learning model to classify websites as legitimate or phishing based on their characteristics. Explore the use of features such as URL structure, domain age, SSL certificates, and website content to identify potential phishing attempts. Dataset Description:&#xA;Utilized a dataset containing labeled examples of legitimate and phishing websites.</description>
+    </item>
+    <item>
+      <title>R Essentials for Data Science - IBM</title>
+      <link>http://localhost:4321/certification/r-essentials/</link>
+      <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/certification/r-essentials/</guid>
+      <description>&#xA;Learnings: kk kk </description>
+    </item>
+    <item>
+      <title>Python Basics for Data Science - edX</title>
+      <link>http://localhost:4321/certification/edx-py-datasci/</link>
+      <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/certification/edx-py-datasci/</guid>
+      <description>&#xA;Learnings: kk kk </description>
     </item>
     <item>
       <title>A campfire</title>
@@ -114,31 +156,10 @@
       <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
     </item>
     <item>
-      <title>Google Data Analytics</title>
-      <link>http://localhost:4321/certification/google-data-analytics/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/certification/google-data-analytics/</guid>
-      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset&#xA;For example, this panelset:&#xA;Hello! &amp;#x1f44b; hello&#xA;Goodbye &amp;#x1f4a8; goodbye&#xA;Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:&#xA;{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:&#xA;Question Which came first: the :chicken: or the :egg:?</description>
-    </item>
-    <item>
-      <title>OCI Data Science Prof</title>
-      <link>http://localhost:4321/certification/oci-data-science/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/certification/oci-data-science/</guid>
-      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset&#xA;For example, this panelset:&#xA;Hello! &amp;#x1f44b; hello&#xA;Goodbye &amp;#x1f4a8; goodbye&#xA;Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:&#xA;{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:&#xA;Question Which came first: the :chicken: or the :egg:?</description>
-    </item>
-    <item>
       <title>Using panelsets</title>
       <link>http://localhost:4321/blog/seedling/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/blog/seedling/</guid>
-      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset&#xA;For example, this panelset:&#xA;Hello! &amp;#x1f44b; hello&#xA;Goodbye &amp;#x1f4a8; goodbye&#xA;Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:&#xA;{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:&#xA;Question Which came first: the :chicken: or the :egg:?</description>
-    </item>
-    <item>
-      <title>Using panelsets</title>
-      <link>http://localhost:4321/certification/seedling/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/certification/seedling/</guid>
       <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset&#xA;For example, this panelset:&#xA;Hello! &amp;#x1f44b; hello&#xA;Goodbye &amp;#x1f4a8; goodbye&#xA;Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:&#xA;{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:&#xA;Question Which came first: the :chicken: or the :egg:?</description>
     </item>
     <item>

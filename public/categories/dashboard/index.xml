@@ -13,7 +13,7 @@
       <link>http://localhost:4321/project/interactive-dashboard-rmd/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/interactive-dashboard-rmd/</guid>
-      <description>Of course, here&amp;rsquo;s the breakdown in point format:&#xA;Introduction:&#xA;Welcome to the Car Failure Dataset Dashboard Project! Objective: Analyze and visualize data related to car failures to provide insights into common issues and trends. Dataset Source: Obtained from [source], includes information about car failures over a specific period. Dashboard Overview:&#xA;Purpose: Interactive exploration of the car failure dataset through visualizations and filters. Key Features: Dynamic filtering by car make, model, failure type, and visualization of trends over time.</description>
+      <description>Introduction:&#xA;Welcome to the Car Failure Dataset Dashboard Project! Objective: Analyze and visualize data related to car failures to provide insights into common issues and trends. Dataset Source: Obtained from [source], includes information about car failures over a specific period. Dashboard Overview:&#xA;Purpose: Interactive exploration of the car failure dataset through visualizations and filters. Key Features: Dynamic filtering by car make, model, failure type, and visualization of trends over time.</description>
     </item>
   </channel>
 </rss>

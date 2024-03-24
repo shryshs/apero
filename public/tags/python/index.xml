@@ -9,25 +9,18 @@
     <lastBuildDate>Sun, 27 Nov 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Market Segmentation of Electric Vehicles</title>
-      <link>http://localhost:4321/project/ev-market-segmentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/ev-market-segmentation/</guid>
-      <description>🌐</description>
-    </item>
-    <item>
-      <title>Phishing Website Detection</title>
-      <link>http://localhost:4321/project/phishing-website-detection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/phishing-website-detection/</guid>
-      <description>Phishing is a type of fraud in which an attacker impersonates a reputable company or person in order to get sensitive information such as login credentials or account information via email or other communication channels. Phishing is popular among attackers because it is easier to persuade someone to click a malicious link that appears to be authentic than it is to break through a computer&amp;rsquo;s protection measures. The mail goal is to predict whether the domains are real or malicious.</description>
-    </item>
-    <item>
       <title>Sentiment Analysis using NLP</title>
       <link>http://localhost:4321/project/sentiment-analysis/</link>
       <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/sentiment-analysis/</guid>
-      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort. Because Speed Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
+      <description>Introduction:&#xA;Welcome to our Sentiment Analysis Project! Our project aims to analyze the sentiment of text data to understand public opinion, feedback, or emotions expressed in various contexts. Objective:&#xA;Develop a sentiment analysis model to automatically classify text data into positive, negative, or neutral sentiments. Explore how sentiment analysis can be applied to social media posts, product reviews, or customer feedback to gain valuable insights. Dataset Description:&#xA;Utilized a dataset containing text data, such as social media posts, customer reviews, or movie reviews, labeled with sentiment labels.</description>
+    </item>
+    <item>
+      <title>Phishing Website Detection</title>
+      <link>http://localhost:4321/project/phishing-website-detection/</link>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/phishing-website-detection/</guid>
+      <description>Introduction:&#xA;Welcome to our Phishing Website Detection Project! Our project aims to develop a system capable of automatically detecting phishing websites to enhance online security. Objective:&#xA;Develop a machine learning model to classify websites as legitimate or phishing based on their characteristics. Explore the use of features such as URL structure, domain age, SSL certificates, and website content to identify potential phishing attempts. Dataset Description:&#xA;Utilized a dataset containing labeled examples of legitimate and phishing websites.</description>
     </item>
   </channel>
 </rss>

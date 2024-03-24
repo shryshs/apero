@@ -6,35 +6,14 @@
     <description>Recent content in Streamlit on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/tags/streamlit/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>SynthCheck: A Synthetic Image Identification using Deep Learning</title>
+      <title>SynthCheck</title>
       <link>http://localhost:4321/project/synthcheck/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/synthcheck/</guid>
-      <description>🔗 GitHub Description SynthCheck: A Synthetic Image Identification using Deep Learning&#xA;SynthCheck is an innovative deep learning solution designed for the accurate identification and classification of synthetic images. Leveraging advanced neural network architectures, SynthCheck excels in distinguishing between real and artificially generated images. This tool plays a crucial role in various applications, from combating deepfake threats to enhancing image integrity verification. SynthCheck empowers users to ensure the authenticity of visual content in a world where synthetic media continues to pose challenges, providing a robust and reliable solution for synthetic image detection.</description>
-    </item>
-    <item>
-      <title>Market Segmentation of Electric Vehicles</title>
-      <link>http://localhost:4321/project/ev-market-segmentation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/ev-market-segmentation/</guid>
-      <description>🌐</description>
-    </item>
-    <item>
-      <title>Phishing Website Detection</title>
-      <link>http://localhost:4321/project/phishing-website-detection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/phishing-website-detection/</guid>
-      <description>Phishing is a type of fraud in which an attacker impersonates a reputable company or person in order to get sensitive information such as login credentials or account information via email or other communication channels. Phishing is popular among attackers because it is easier to persuade someone to click a malicious link that appears to be authentic than it is to break through a computer&amp;rsquo;s protection measures. The mail goal is to predict whether the domains are real or malicious.</description>
-    </item>
-    <item>
-      <title>Course Recommendation System</title>
-      <link>http://localhost:4321/project/course-recommend-sys/</link>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/course-recommend-sys/</guid>
-      <description>🔗 GitHub Description The aim of the project is to build an open-source quadcopter platform for research in the field of drone autonomy. Various deep learning and computer vision algorithms will be implemented on the drone including person tracking, gesture control using human pose estimation, optical flow stabilization, obstacle avoidance, and depth estimation using monocular vision. The drone uses a Pixhawk flight controller with Raspberry Pi as a companion computer.</description>
+      <description>Introduction:&#xA;Welcome to our Synthcheck: A Synthetic Image Identification using Deep Learning project! Our project aims to develop a system capable of detecting synthetic or manipulated images using advanced deep learning techniques, while also providing explanations for model predictions. Objective:&#xA;Develop a deep learning model to classify images as either real or synthetic based on their visual characteristics. Incorporate explainable AI techniques to provide insights into the model&amp;rsquo;s decision-making process and highlight features indicative of synthetic images.</description>
     </item>
   </channel>
 </rss>

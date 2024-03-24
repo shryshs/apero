@@ -6,28 +6,21 @@
     <description>Recent content in R on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interactive Dashboard on U.S. Car Failure Data using RMd</title>
+      <link>http://localhost:4321/project/interactive-dashboard-rmd/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/interactive-dashboard-rmd/</guid>
+      <description>Introduction:&#xA;Welcome to the Car Failure Dataset Dashboard Project! Objective: Analyze and visualize data related to car failures to provide insights into common issues and trends. Dataset Source: Obtained from [source], includes information about car failures over a specific period. Dashboard Overview:&#xA;Purpose: Interactive exploration of the car failure dataset through visualizations and filters. Key Features: Dynamic filtering by car make, model, failure type, and visualization of trends over time.</description>
+    </item>
     <item>
       <title>Installing or Uninstalling R on Ubuntu</title>
       <link>http://localhost:4321/blog/r-install-uninstall/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/blog/r-install-uninstall/</guid>
       <description>R is a open source programming language for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing. Created by statisticians Ross Ihaka and Robert Gentleman, R is used among data miners, bioinformaticians and statisticians for data analysis and developing statistical software. Users have created packages to augment the functions of the R language. According to user surveys and studies of scholarly literature databases, R is one of the most commonly used programming languages used in data mining.</description>
-    </item>
-    <item>
-      <title>Palmer Penguins</title>
-      <link>http://localhost:4321/project/penguins/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/penguins/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1&#xA;Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid TABLE.</description>
-    </item>
-    <item>
-      <title>Bakeoff</title>
-      <link>http://localhost:4321/project/bakeoff/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/bakeoff/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
     </item>
   </channel>
 </rss>

@@ -132,8 +132,8 @@ enableEmoji = true
     url = "/me/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
+    name = "Blogs"
+    title = "Blogs"
     url = "/blog/"
     weight = 2
   [[menu.header]]
@@ -156,7 +156,7 @@ enableEmoji = true
     title = "Contact Me!"
     url = "/contact/"
     weight = 6
-    
+
   # Configure footer  
   [[menu.footer]]
     name = "T&C"
