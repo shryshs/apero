@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Shreyash Somvanshi"
   orgLocal = ""
   description = "Inside you'll find my writing about products and projects I've worked on, along with my personal reflections about learning, and crafting kind tech tools."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/shr.ico"
+  logo = "/img/shr.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/shr.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "shreyash___s"
   
