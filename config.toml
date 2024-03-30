@@ -73,7 +73,7 @@ enableEmoji = true
     use_utterances = true
     repo_name = "ShreyashSomvanshi/apero"
     issue_term = "pathname" # url, pathname, or title
-    theme = "github-dark-orange"
+    theme = "gruvbox-dark"
     label = "comments :crystal_ball:"
 
   # Configuration of math rendering
