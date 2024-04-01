@@ -22,9 +22,9 @@ sidebar:
   author: "Shreyash Somvanshi"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-  categories_link: true
-  series_link: true
-  tags_link: true
+  categories_link: false
+  series_link: false
+  tags_link: false
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside blog/

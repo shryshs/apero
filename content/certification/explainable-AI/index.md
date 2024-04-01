@@ -8,6 +8,20 @@ layout: single
 ---
 ![xai cert](featured-xai.png)
 
-## Learnings:
-+ kk
-+ kk
+---
+
+### Learnings:
++ The Importance of Human Interpretable Machine Learning
++ Model Interpretation Strategies
++ LIME (Local Interpretable Model-agnostic Explanations)
++ SHAP (SHapley Additive exPlanations)
++ Other Explainable AI Tools
+    - ELI5
+    - Skater
+    - What-If Tool
+    - Azure ML
++ The Future of Interpretability
+
+---
+#### Enroll for free: [https://aiplanet.com/learn/explainable-ai](https://aiplanet.com/learn/explainable-ai)
+---

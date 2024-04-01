@@ -15,19 +15,5 @@
       <guid>http://localhost:4321/talk/synthcheck/</guid>
       <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
     </item>
-    <item>
-      <title>A campfire</title>
-      <link>http://localhost:4321/talk/campfire/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/talk/campfire/</guid>
-      <description>I&amp;rsquo;m really excited to give this talk! Stay tuned for video and slides.</description>
-    </item>
-    <item>
-      <title>A seedling</title>
-      <link>http://localhost:4321/talk/second-seedling/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      <guid>http://localhost:4321/talk/second-seedling/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

@@ -149,24 +149,10 @@
       <description></description>
     </item>
     <item>
-      <title>Workshop</title>
-      <link>http://localhost:4321/categories/workshop/</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/workshop/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Theme Features</title>
       <link>http://localhost:4321/categories/theme-features/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/categories/theme-features/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Meetup</title>
-      <link>http://localhost:4321/categories/meetup/</link>
-      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
-      <guid>http://localhost:4321/categories/meetup/</guid>
       <description></description>
     </item>
   </channel>

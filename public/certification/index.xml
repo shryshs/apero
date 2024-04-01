@@ -13,49 +13,49 @@
       <link>http://localhost:4321/certification/explainable-ai/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/certification/explainable-ai/</guid>
-      <description>&#xA;Learnings: kk kk </description>
+      <description>&#xA;Learnings: The Importance of Human Interpretable Machine Learning Model Interpretation Strategies LIME (Local Interpretable Model-agnostic Explanations) SHAP (SHapley Additive exPlanations) Other Explainable AI Tools ELI5 Skater What-If Tool Azure ML The Future of Interpretability Enroll for free: https://aiplanet.com/learn/explainable-ai </description>
     </item>
     <item>
       <title>OCI Certified Data Science Professional</title>
       <link>http://localhost:4321/certification/oci-data-science/</link>
       <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/certification/oci-data-science/</guid>
-      <description>&#xA;Learnings: kk kk </description>
+      <description>Learnings: OCI Data Science - Introduction &amp;amp; Configuration Discuss OCI Data Science Overview &amp;amp; Concepts Understand the capabilities of Accelerated Data Science(ADS) SDK Configure your tenancy for Data Science Design and Set up OCI Data Science Workspace Create and manage Projects and Notebook sessions Create and manage Conda environments Store credentials via OCI Vault Configure and manage source code in Code Repositories (Git) Implement end-to-end Machine Learning Lifecycle Discuss ML Lifecycle Overview Access data from different sources Explore and Prepare data Visualize and Profile data Create and train models using OCI and Open source Libraries Create and Use automated ML capability from Oracle AutoML Evaluate models Obtain Global &amp;amp; Local Model Explanations Manage models using Model Catalog Deploy &amp;amp; Invoke a Cataloged Model Apply MLOps Practices Understand OCI MLOps Architecture Create &amp;amp; Manage Jobs for custom tasks Scale with OCI Data Science Monitor &amp;amp; Log using MLOps Practices Use Pipelines to automate machine learning workflow Use related OCI Services Create and Manage Spark Applications using Data Flow and OCI Data Science Understand OCI Open Data Service Create and Export a Dataset using OCI Data Labeling Use OCI AI Services for ML Solutions Course Link: https://education.</description>
     </item>
     <item>
       <title>Python for Data Science - Corise</title>
       <link>http://localhost:4321/certification/corise-py-datasci/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/certification/corise-py-datasci/</guid>
-      <description>&#xA;Learnings: kk kk </description>
+      <description>&#xA;Learnings: Python Basics Data Pre-processing Data Modeling Numpy Pandas Scikit learn Streamlit </description>
     </item>
     <item>
       <title>Database Management Systems - NPTEL</title>
       <link>http://localhost:4321/certification/dbms-nptel/</link>
       <pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/certification/dbms-nptel/</guid>
-      <description>&#xA;Learnings: kk kk </description>
+      <description>&#xA;Learnings: Introduction to RDBMS Structured Query Language (SQL) Relational Algebra. Entity-Relationship Model Relational Database Design Application Development. Case Studies. Storage and File Structure Indexing and Hashing. Query Processing Query Optimization. Transactions (Serializability and Recoverability) Concurrency Control. Recovery Systems. Course Link: https://onlinecourses.nptel.ac.in/noc22_cs91/preview </description>
     </item>
     <item>
       <title>Google Data Analytics - Coursera</title>
       <link>http://localhost:4321/certification/google-data-analytics/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/certification/google-data-analytics/</guid>
-      <description>&#xA;Learnings: kk kk </description>
+      <description>&#xA;Learnings: Foundations: Data, Data, Everywhere Ask Questions to Make Data-Driven Decisions Prepare Data for Exploration Process Data from Dirty to Clean Analyze Data to Answer Questions Share Data Through the Art of Visualization Data Analysis with R Programming Course Link: https://www.coursera.org/professional-certificates/google-data-analytics </description>
     </item>
     <item>
       <title>R Essentials for Data Science - IBM</title>
       <link>http://localhost:4321/certification/r-essentials/</link>
       <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/certification/r-essentials/</guid>
-      <description>&#xA;Learnings: kk kk </description>
+      <description>&#xA;Learnings: R basics Data structures in R R programming fundamentals Working with data in R Strings and Dates in R Course link: https://cognitiveclass.ai/courses/r-101 </description>
     </item>
     <item>
       <title>Python Basics for Data Science - edX</title>
       <link>http://localhost:4321/certification/edx-py-datasci/</link>
       <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/certification/edx-py-datasci/</guid>
-      <description>&#xA;Learnings: kk kk </description>
+      <description>&#xA;Learnings: Python Basics Python Data Structures Python Programming Fundamentals Working with Data in Python Working with Numpy Arrays Course Link: https://www.edx.org/learn/python/ibm-python-basics-for-data-science </description>
     </item>
   </channel>
 </rss>

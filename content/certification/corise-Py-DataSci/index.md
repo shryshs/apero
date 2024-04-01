@@ -8,6 +8,14 @@ layout: single
 ---
 ![python for data sci cert](featured-corisePyDataSci.png)
 
-## Learnings:
-+ kk
-+ kk
+---
+
+### Learnings:
++ Python Basics
++ Data Pre-processing
++ Data Modeling
++ Numpy
++ Pandas
++ Scikit learn
++ Streamlit
+---
