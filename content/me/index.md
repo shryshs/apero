@@ -51,7 +51,7 @@ Best Regards,<br>
 
 {{< panel name="Resume" >}}
 
-+ 📑 [Resume](https://drive.google.com/file/d/1_vZe6ncprfPO6RU489byF-fKjRiPiOUR/view?usp=drive_link)
++ 📑 [Resume](https://drive.google.com/file/d/1ygEIOGTJo0hxK4z3pUU6wdEFAmQUI7aD/view?usp=drive_link)
 
 {{< /panel >}} 
 
