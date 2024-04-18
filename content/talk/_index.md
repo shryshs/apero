@@ -1,5 +1,5 @@
 ---
-title: Talks that Last
+title: Talks that Lasts
 description: |
   Explore My Talks: Unveiling Fresh Perspectives and Insights.
 author: "Shreyash Somvanshi"
