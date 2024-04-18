@@ -4,7 +4,6 @@ subtitle: "A Synthetic Image Identification using Deep Learning"
 excerpt: "This is the talk I gave for my project review on SynthCheck: A Synthetic Image Identification using Deep Learning."
 date: 2024-03-14T14:15:59-06:00
 date_end: 2024-03-14T15:15:59-06:00
-featured: true
 show_post_time: false
 #event: "rstudio::global(2021)"
 #event_url: https://global.rstudio.com

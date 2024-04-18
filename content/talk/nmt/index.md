@@ -4,7 +4,6 @@ subtitle: "Computational Intelligence & NLP"
 excerpt: "Here is the presentation I gave on 'Computational Intelligence: Neural Machine Translation & Translation Metrics'."
 date: 2024-04-18T16:45:59-06:00
 date_end: 2024-04-18T17:15:59-06:00
-featured: true
 show_post_time: false
 author: "Shreyash Somvanshi"
 location: "VPKBIET, Baramati"
