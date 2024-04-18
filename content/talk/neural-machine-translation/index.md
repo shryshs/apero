@@ -2,12 +2,10 @@
 title: "Neural Machine Translation & Translation Metrics"
 subtitle: "Computational Intelligence & NLP"
 excerpt: "Here is the presentation I gave on 'Computational Intelligence: Neural Machine Translation & Translation Metrics'."
-date: 2024-04-18T14:15:59-06:00
-# date_end: 2024-03-14T15:15:59-06:00
+date: 2024-04-18T14:16:45-06:00
+date_end: 2024-04-18T17:15:59-06:00
 featured: true
 show_post_time: false
-#event: "rstudio::global(2021)"
-#event_url: https://global.rstudio.com
 author: "Shreyash Somvanshi"
 location: "VPKBIET, Baramati"
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Talks that Lasts
 description: |
-  Explore My Talks: Unveiling Fresh Perspectives and Insights.
+  Explore My Talks: Unveiling fresh perspectives and insights!
 author: "Shreyash Somvanshi"
 show_post_thumbnail: true
 show_author_byline: false
