@@ -4,7 +4,7 @@ languageCode = "en"
 title = "Shreyash Somvanshi"
 author = "Shreyash Somvanshi"
 copyright = "" # set to override the auto generated copyright using org info and now year
-googleAnalytics = ""
+googleAnalytics = "G-0N259PV2VC"
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
@@ -180,8 +180,8 @@ enableEmoji = true
     disable = true
   [privacy.googleAnalytics]
     disable = false
-    anonymizeIP = true
-    respectDoNotTrack = true
+    anonymizeIP = false
+    respectDoNotTrack = false
   [privacy.instagram]
     disable = false
     simple = true
