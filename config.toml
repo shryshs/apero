@@ -88,7 +88,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "mailto:shreyashsomvanshi03+site_apero@gmail.com"
+      url       = "mailto:shreyashsomvanshi03@gmail.com"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -101,6 +101,10 @@ enableEmoji = true
       icon      = "kaggle" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.kaggle.com/shreyashsomvanshi"
+  [[params.social]]
+      icon      = "user-astronaut" # icon name without the 'fa-'
+      icon_pack = "fas"
+      url       = "https://machinehack.com/user/63e66c416018ef32de78c4d0"
   [[params.social]]
       icon      = "medium" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -127,35 +131,40 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
+    name = "Home"
+    title = "Home"
+    url = "/"
+    weight = 1
+  [[menu.header]]
     name = "About"
     title = "About"
     url = "/me/"
-    weight = 1
+    weight = 2
   [[menu.header]]
     name = "Blogs"
     title = "Blogs"
     url = "/blog/"
-    weight = 2
+    weight = 3
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "Talks"
     title = "Talks"
     url = "/talk/"
-    weight = 4
+    weight = 5
   [[menu.header]]
     name = "Certifications"
     title = "Certifications"
     url = "/certification/"
-    weight = 5
+    weight = 6
   [[menu.header]]
     name = "Contact"
     title = "Contact Me!"
     url = "/contact/"
-    weight = 6
+    weight = 7
 
   # Configure footer  
   [[menu.footer]]

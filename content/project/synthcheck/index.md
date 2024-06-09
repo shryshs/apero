@@ -23,7 +23,7 @@ links:
 - icon: globe
   icon_pack: fa
   name: website
-  url: https://testsynthcheckshr1.streamlit.app/
+  url: https://synthcheck.streamlit.app/
 - icon: github
   icon_pack: fab
   name: code
@@ -81,5 +81,5 @@ links:
 
 ### Demo:
 
-<iframe src="https://testsynthcheckshr1.streamlit.app/?embed=true&embed_options=dark_theme" width="100%" height="600" frameborder="0" scrolling="no"></iframe>  
+<iframe src="https://synthcheck.streamlit.app/?embed=true&embed_options=dark_theme" width="100%" height="600" frameborder="0" scrolling="no"></iframe>  
 

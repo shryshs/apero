@@ -10,7 +10,7 @@ layout: single
 {{< panelset >}}
 {{< panel name="About ME!" >}}
 
-Hello and welcome to my corner of the internet! I'm Shreyash, an aspiring Data Scientist and AI Engineer with a passion for Data. I'm excited to share my journey, insights, and experiences with you.
+Hello and welcome to my corner of the internet! I'm Shreyash, a passionate A.I. and Data Science Engineer. I'm excited to share my journey, insights, and experiences with you.
 
 With a background in Artificial Intelligence and Data Science, I've had the privilege of diving deep into the world of Data Science. From [innovative projects](https://shreyash.rbind.io/project/), I've honed my skills in Python, Machine Learning, Data Science and I'm constantly seeking new ways to push the boundaries of what's possible.
 
@@ -26,20 +26,21 @@ Best Regards,<br>
 {{< /panel >}}
 
 {{< panel name="Experience" >}}
-+ **Feynn Labs** - *Machine Learning Intern (Dec'22 - Feb'23)*
-    - Led a team of 4 members for successful completion of assigned project.
+
++ **A.I. & Machine Learning Volunteer** - *GDSC, VPKBIET (Aug'23 - May'24)* 
+   - Collaboratively took initiatives in projects to democratize cutting-edge technology within the student community.
+   - Empowered fellow students through dynamic AI and ML engagement as a GDSC volunteer, instilling a culture of innovation and exploration in the realm of A.I.
+
++ **Machine Learning Intern** - *Feynn Labs (Dec'22 - Feb'23)*
     - Worked on real world problems including some case studies and Market Segmentation of Electric Vehicles.
     - Plotted clear and attractive visualizations, created insightful documentations and reports.
     - Gained experience in working with Unsupervised Learning algorithms and state-of-the-art ML frameworks.
 
-+ **A.I. & Machine Learning Volunteer** - *GDSC,VPKBIET (Aug'23 - Present)* 
-  > - Collaboratively taking initiatives in projects to democratize cutting-edge technology within the student community.
-  > - Empowering fellow students through dynamic AI and ML engagement as a GDSC volunteer, fostering a culture of innovation and exploration in the realm of A.I.
 
 {{< /panel >}}
 
 {{< panel name="Education" >}}
-+ **B.E. in Artificial Intelligence and Data Science**  *(2020 - 2024)*
++ **B.E. Artificial Intelligence and Data Science**  *(2020 - 2024)*
     > - *Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology, Baramati*
     > - CGPA: 9.1
 ---
@@ -53,7 +54,110 @@ Best Regards,<br>
 
 + 📑 [Resume](https://drive.google.com/file/d/1BbfTGlBKEIIsqeBm-G2mYM_72ILdEMV0/view?usp=drive_link)
 
-{{< /panel >}} 
+{{< /panel >}}
+
+{{< panel name="Skills" >}}
+
+<table>
+    <tr>
+        <td align="center">
+            <figure>
+                <img src="https://img.icons8.com/color/452/python.png" alt="Python" style="width: 90px; height: 90px;">
+                <figcaption>Python</figcaption>
+            </figure>
+        </td>
+        <td align="center">
+            <figure>
+                <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" style="width: 90px; height: 90px;">
+                <figcaption>R</figcaption>
+            </figure>
+        </td>
+        <td align="center">
+            <figure>
+                <img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-dots.svg" alt="Julia" style="width: 90px; height: 90px;">
+                <figcaption>Julia</figcaption>
+            </figure>
+        </td>
+        <td align="center">
+            <figure>
+                <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="SQL" style="width: 90px; height: 80px;">
+                <figcaption>MySQL</figcaption>
+            </figure>
+        </td>
+        <td align="center">
+            <figure>
+                <img src="https://img.icons8.com/color/452/mongodb.png" alt="SQL" style="width: 90px; height: 90px;">
+                <figcaption>MongoDB</figcaption>
+            </figure>
+        </td>
+        <td align="center">
+            <figure>
+                <img src="https://img.icons8.com/color/452/git.png" alt="Git" style="width: 90px; height: 90px;">
+                <figcaption>Git</figcaption>
+            </figure>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <figure>
+                <img src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" style="width: 90px; height: 90px;">
+                <figcaption>MongoDB</figcaption>
+            </figure>
+        </td>
+        <td align="center">
+            <figure>
+                <img src="https://dist.neo4j.com/wp-content/uploads/20230926084108/Logo_FullColor_RGB_TransBG.svg" alt="Neo4J" style="width: 90px; height: 90px;">
+                <figcaption>Neo4j</figcaption>
+            </figure>
+        </td>
+        <td align="center">
+            <figure>
+                <img src="https://img.icons8.com/color/452/microsoft-excel-2019.png" alt="Excel" style="width: 90px; height: 90px;">
+                <figcaption>Excel</figcaption>
+            </figure>
+        </td>
+        <td align="center">
+            <figure>
+                <img src="https://mahmoudelgendi.com/wp-content/uploads/2022/03/Knime-White.svg" alt="KNIME" style="width: 95px; height: 55px;">
+                <figcaption>KNIME</figcaption>
+            </figure>
+        </td>
+        <td align="center">
+            <figure>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" style="width: 95px; height: 55px;">
+                <figcaption>Apache Hadoop</figcaption>
+            </figure>
+        </td>
+        <td align="center">
+            <figure>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Scala-spiral-noise-sm.png" alt="Scala" style="width: 85px; height: 90px;">
+                <figcaption>Scala</figcaption>
+            </figure>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <figure>
+                <img src="https://img.icons8.com/color/452/power-bi.png" alt="PowerBI" style="width: 80px; height: 80px;">
+                <figcaption>PowerBI</figcaption>
+            </figure>
+        </td>
+        <td align="center">
+            <figure>
+                <img src="https://img.icons8.com/color/452/tableau-software.png" alt="Tableau" style="width: 80px; height: 80px;">
+                <figcaption>Tableau</figcaption>
+            </figure>
+        </td>
+        <td align="center">
+            <figure>
+                <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="LookerStudio" style="width: 80px; height: 80px;">
+                <figcaption>LookerStudio</figcaption>
+            </figure>
+        </td>
+    </tr>
+</table>
+
+{{< /panel >}}
 
 {{< panel name="Freelancing" >}}
 I am available for short-term contract or consulting work with a focus on statistical analysis, data exploration, and dashboard development. 
@@ -68,7 +172,7 @@ I am available for short-term contract or consulting work with a focus on statis
 
 ##### *Rates are negotiable by project and typically billed on a per-project basis or $20/hr**
 
-##### For inquiries and consultations, please [contact me here](/contact), and we can set up a time to discuss scope and cost.
+##### For inquiries and consultations, please [contact me here](/contact), to discuss requirements, scope and cost.
 
 {{< /panel >}}
 
