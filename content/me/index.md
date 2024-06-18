@@ -10,7 +10,9 @@ layout: single
 {{< panelset >}}
 {{< panel name="About ME!" >}}
 
-Hello and welcome to my corner of the internet! I'm Shreyash, a passionate A.I. and Data Science Engineer. I'm excited to share my journey, insights, and experiences with you.
+Hello :wave: and welcome to my corner of the internet!
+
+I'm Shreyash, a passionate A.I. and Data Science Engineer from India :india:. I'm excited to share my journey, insights, and experiences with you.
 
 With a background in Artificial Intelligence and Data Science, I've had the privilege of diving deep into the world of Data Science. From [innovative projects](https://shreyash.rbind.io/project/), I've honed my skills in Python, Machine Learning, Data Science and I'm constantly seeking new ways to push the boundaries of what's possible.
 
@@ -21,7 +23,7 @@ I believe in the power of collaborative learning and through this website, I am 
 Thank you for visiting, and I hope you find inspiration and value in the content I share!
 
 Best Regards,<br>
-**Shreyash Somvanshi**
+**Shreyash Somvanshi**<br>
 
 {{< /panel >}}
 
