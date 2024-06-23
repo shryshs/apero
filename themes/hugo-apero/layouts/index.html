@@ -12,7 +12,7 @@
       </div>
       <div class="tr w-50-l {{ if .Params.image_left }}ml4{{ else }}mr4{{ end }}">
       {{ with .Params.images }}
-        {{ range first 1 . }}<img class="mv0 w-70-m" src="{{ . }}"/>{{ end }}
+        {{ range first 1 . }}<img class="mv0" style="border: 7px solid #ff9933; border-radius: 25%; width: 400px; height: 450px; object-fit: cover;" src="{{ . }}"/>{{ end }}
       {{ end }}
       </div>
     </div>
