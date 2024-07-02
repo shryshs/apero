@@ -6,8 +6,15 @@
     <description>Recent content in A Project Portfolio To Grow on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analytics Dashboard for Retail Transactions Data</title>
+      <link>http://localhost:4321/project/qliksense-dashboard-try/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/qliksense-dashboard-try/</guid>
+      <description>Overview: Emedded Dashboard: References: Youtube: Qliksense Tutorial by Abhishek Agarrwal</description>
+    </item>
     <item>
       <title>SynthCheck</title>
       <link>http://localhost:4321/project/synthcheck/</link>

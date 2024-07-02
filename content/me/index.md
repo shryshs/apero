@@ -1,16 +1,15 @@
 ---
 title: About Me!
-date: 2024-03-23
-draft: false
-url: me
+date: 2024-07-02
 layout: single
 # show_title_as_headline: true
 ---
 
+
 {{< panelset >}}
 {{< panel name="About ME!" >}}
 
-Hello :wave: and welcome to my corner of the internet!
+Hello :wave:, welcome to my corner of the internet!
 
 I'm Shreyash, a passionate A.I. and Data Science Engineer from India :india:. I'm excited to share my journey, insights, and experiences with you.
 
@@ -27,6 +26,61 @@ Best Regards,<br>
 
 {{< /panel >}}
 
+{{< panel name="Skills" >}} 
+#### Programming Languages:
+||||
+| --- | --- | --- | -- |
+| <img src="/logos/programming_lang/python.png" alt="Python" style="width: 50px; height: 50px;"> <center>Python</center>  | <img src="/logos/programming_lang/Rlogo.svg" alt="R" style="width: 50px; height: 50px;">   <center>R</center>     | <img src="/logos/programming_lang/julia-dots.svg" alt="Julia" style="width: 50px; height: 50px;">  <center>Julia</center>    | <img src="/logos/programming_lang/Lisp_logo.svg" alt="Lisp" style="width: 50px; height: 50px;">  <center>Lisp</center>  |
+---
+
+#### Dashboards:
+|||| | | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| <img src="/logos/dashboarding/microsoft-excel-2019.png" alt="Excel" style="width: 50px; height: 50px;"> <center>Excel</center> | <img src="/logos/dashboarding/power-bi.png" alt="PowerBI" style="width: 50px; height: 50px;"> <center>PowerBI</center>  | <img src="/logos/dashboarding/tableau-software.png" alt="Tableau" style="width: 50px; height: 50px;">  <center> Tableau </center>     | <img src="/logos/dashboarding/ic_looker_studio.svg" alt="LookerStudio" style="width: 50px; height: 50px;"> <center>Looker</center>    | <img src="/logos/dashboarding/quarto.png" alt="Quarto" style="width: 50px; height: 50px;"> <center>Quarto</center> | <img src="/logos/dashboarding/Rmd.png" alt="Rmd" style="width: 50px; height: 50px;"> <center>Rmd</center> | <img src="/logos/dashboarding/qliksense.png" alt="Qliksense" style="width: 50px; height: 50px;"> <center>Qlik</center> |
+
+
+---
+
+#### Databases:
+|||| |
+| --- | --- | --- | --- |
+| <img src="/logos/databases/logo-mysql-170x115.png" alt="SQL" style="width: 50px; height: 45px;"><center>MySQL</center>  |  <img src="/logos/databases/mongodb.png" alt="MongoDB" style="width: 50px; height: 50px;">  <center>MongoDB</center>  | <img src="/logos/databases/neo4j.svg" alt="Neo4J" style="width: 50px; height: 50px;"> <center>Neo4j</center> | <img src="https://img.icons8.com/color/452/microsoft-excel-2019.png" alt="Excel" style="width: 50px; height: 50px;"> <center>Excel</center> |
+
+---
+
+
+#### Cloud:
+|||| | |
+| --- | --- | --- | --- | --- |
+| <img src="/logos/cloud_tech/Microsoft_Azure.svg" alt="Microsoft Azure" style="width: 50px; height: 50px;"><center> Azure</center>  | | <img src="/logos/cloud_tech/google-cloud.png" alt="Google Cloud" style="width: 50px; height: 50px;">  <center>GCP</center>  | <img src="/logos/cloud_tech/oracle.png" alt="Oracle Cloud" style="width: 70px; height: 50px;"> <center>Oracle Cloud</center> | <img src="/logos/cloud_tech/Amazon_Web_Services_Logo.svg" alt="AWS Cloud" style="width: 50px; height: 50px;"> <center>AWS</center> |
+
+
+---
+
+#### Version Control:
+||| | |
+| --- | --- | --- | --- |
+| <img src="/logos/version_control/GitHub_Invertocat_Logo.svg" alt="Github" style="width: 50px; height: 50px;"> <center>Github</center>| <img src="/logos/version_control/git.png" alt="Git" style="width: 50px; height: 50px;"> <center>Git</center> | <img src="/logos/version_control/GitLab_icon.svg" alt="Gitlab" style="width: 35px; height: 50px;"> <center>Gitlab</center> | <img src="/logos/version_control/Bitbucket-blue-logomark-only.svg" alt="Bitbucket" style="width: 40px; height: 50px;"> <center>Bitbucket</center> |
+
+---
+
+#### Big Data tools:
+||| | |
+| --- | --- | --- | --- |
+| <img src="/logos/bigdata_tools/hadoop1.png" alt="Hadoop" style="width: 75px; height: 50px;"> <center>Hadoop</center> | <img src="/logos/bigdata_tools/scala-spiral-3d.png" alt="Scala" style="width: 35px; height: 50px;"> <center>Scala</center> | <img src="/logos/bigdata_tools/Apache_Spark_logo.svg" alt="Spark" style="width: 50px; height: 50px;"> <center>Spark</center> |
+
+---
+
+#### Data Science tools:
+
+|||
+| --- | --- | 
+| <img src="/logos/data_science_tools/Knime-White.svg" alt="KNIME" style="width: 95px; height: 40px;"> | <img src="/logos/data_science_tools/orangedatamining_logo-removebg-preview.png" alt="Orange" style="width: 50px; height: 50px;"> <center>Orange</center> | 
+
+---
+
+{{< /panel >}}
+
 {{< panel name="Experience" >}}
 
 + **A.I. & Machine Learning Volunteer** - *GDSC, VPKBIET (Aug'23 - May'24)* 
@@ -38,126 +92,16 @@ Best Regards,<br>
     - Plotted clear and attractive visualizations, created insightful documentations and reports.
     - Gained experience in working with Unsupervised Learning algorithms and state-of-the-art ML frameworks.
 
-
 {{< /panel >}}
 
 {{< panel name="Education" >}}
 + **B.E. Artificial Intelligence and Data Science**  *(2020 - 2024)*
     > - *Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology, Baramati*
-    > - CGPA: 9.1
+    > - CGPA: 8.44
 ---
 + **Honours in Cybersecurity** *(2022 - 2024)*
     > - *Savitribai Phule Pune University*
-    > - Grade: B
-
-{{< /panel >}}
-
-{{< panel name="Resume" >}}
-
-+ 📑 [Resume](https://drive.google.com/file/d/1BbfTGlBKEIIsqeBm-G2mYM_72ILdEMV0/view?usp=drive_link)
-
-{{< /panel >}}
-
-{{< panel name="Skills" >}}
-
-<table>
-    <tr>
-        <td align="center">
-            <figure>
-                <img src="https://img.icons8.com/color/452/python.png" alt="Python" style="width: 90px; height: 90px;">
-                <figcaption>Python</figcaption>
-            </figure>
-        </td>
-        <td align="center">
-            <figure>
-                <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" style="width: 90px; height: 90px;">
-                <figcaption>R</figcaption>
-            </figure>
-        </td>
-        <td align="center">
-            <figure>
-                <img src="https://raw.githubusercontent.com/JuliaLang/julia-logo-graphics/master/images/julia-dots.svg" alt="Julia" style="width: 90px; height: 90px;">
-                <figcaption>Julia</figcaption>
-            </figure>
-        </td>
-        <td align="center">
-            <figure>
-                <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="SQL" style="width: 90px; height: 80px;">
-                <figcaption>MySQL</figcaption>
-            </figure>
-        </td>
-        <td align="center">
-            <figure>
-                <img src="https://img.icons8.com/color/452/mongodb.png" alt="SQL" style="width: 90px; height: 90px;">
-                <figcaption>MongoDB</figcaption>
-            </figure>
-        </td>
-        <td align="center">
-            <figure>
-                <img src="https://img.icons8.com/color/452/git.png" alt="Git" style="width: 90px; height: 90px;">
-                <figcaption>Git</figcaption>
-            </figure>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <figure>
-                <img src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" style="width: 90px; height: 90px;">
-                <figcaption>MongoDB</figcaption>
-            </figure>
-        </td>
-        <td align="center">
-            <figure>
-                <img src="https://dist.neo4j.com/wp-content/uploads/20230926084108/Logo_FullColor_RGB_TransBG.svg" alt="Neo4J" style="width: 90px; height: 90px;">
-                <figcaption>Neo4j</figcaption>
-            </figure>
-        </td>
-        <td align="center">
-            <figure>
-                <img src="https://img.icons8.com/color/452/microsoft-excel-2019.png" alt="Excel" style="width: 90px; height: 90px;">
-                <figcaption>Excel</figcaption>
-            </figure>
-        </td>
-        <td align="center">
-            <figure>
-                <img src="https://mahmoudelgendi.com/wp-content/uploads/2022/03/Knime-White.svg" alt="KNIME" style="width: 95px; height: 55px;">
-                <figcaption>KNIME</figcaption>
-            </figure>
-        </td>
-        <td align="center">
-            <figure>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" style="width: 95px; height: 55px;">
-                <figcaption>Apache Hadoop</figcaption>
-            </figure>
-        </td>
-        <td align="center">
-            <figure>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Scala-spiral-noise-sm.png" alt="Scala" style="width: 85px; height: 90px;">
-                <figcaption>Scala</figcaption>
-            </figure>
-        </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <figure>
-                <img src="https://img.icons8.com/color/452/power-bi.png" alt="PowerBI" style="width: 80px; height: 80px;">
-                <figcaption>PowerBI</figcaption>
-            </figure>
-        </td>
-        <td align="center">
-            <figure>
-                <img src="https://img.icons8.com/color/452/tableau-software.png" alt="Tableau" style="width: 80px; height: 80px;">
-                <figcaption>Tableau</figcaption>
-            </figure>
-        </td>
-        <td align="center">
-            <figure>
-                <img src="https://www.gstatic.com/analytics-lego/svg/ic_looker_studio.svg" alt="LookerStudio" style="width: 80px; height: 80px;">
-                <figcaption>LookerStudio</figcaption>
-            </figure>
-        </td>
-    </tr>
-</table>
+    > - Grade: C
 
 {{< /panel >}}
 
@@ -172,7 +116,7 @@ I am available for short-term contract or consulting work with a focus on statis
   > + Data Pipelines
   > + Deep Learning Solutions
 
-##### *Rates are negotiable by project and typically billed on a per-project basis or $20/hr**
+##### *Rates are negotiable by project and typically billed on a per-project basis or $10/hr*
 
 ##### For inquiries and consultations, please [contact me here](/contact), to discuss requirements, scope and cost.
 
@@ -187,5 +131,3 @@ I am available for short-term contract or consulting work with a focus on statis
 {{< /panelset >}}
 
 ---
-
-

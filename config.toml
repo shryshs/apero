@@ -114,10 +114,6 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://twitter.com/shreyash___s"
   [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://orcid.org/0009-0005-5977-5606"
-  [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
       url       = "/blog/index.xml"
@@ -140,6 +136,11 @@ enableEmoji = true
     title = "About"
     url = "/me/"
     weight = 2
+  [[menu.header]]
+    name = "Resume"
+    title = "Resume"
+    url = "/resume/"
+    weight = 3
   [[menu.header]]
     name = "Blogs"
     title = "Blogs"

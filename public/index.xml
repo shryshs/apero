@@ -6,21 +6,35 @@
     <description>Recent content on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Apr 2024 16:45:59 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me!</title>
+      <link>http://localhost:4321/me/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/me/</guid>
+      <description>About ME! Hello &amp;#x1f44b;, welcome to my corner of the internet!&#xA;I&amp;rsquo;m Shreyash, a passionate A.I. and Data Science Engineer from India &amp;#x1f1ee;&amp;#x1f1f3;. I&amp;rsquo;m excited to share my journey, insights, and experiences with you.&#xA;With a background in Artificial Intelligence and Data Science, I&amp;rsquo;ve had the privilege of diving deep into the world of Data Science. From innovative projects, I&amp;rsquo;ve honed my skills in Python, Machine Learning, Data Science and I&amp;rsquo;m constantly seeking new ways to push the boundaries of what&amp;rsquo;s possible.</description>
+    </item>
+    <item>
+      <title>My Resume</title>
+      <link>http://localhost:4321/resume/</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/resume/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Analytics Dashboard for Retail Transactions Data</title>
+      <link>http://localhost:4321/project/qliksense-dashboard-try/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/qliksense-dashboard-try/</guid>
+      <description>Overview: Emedded Dashboard: References: Youtube: Qliksense Tutorial by Abhishek Agarrwal</description>
+    </item>
     <item>
       <title>Neural Machine Translation &amp; Translation Metrics</title>
       <link>http://localhost:4321/talk/nmt/</link>
       <pubDate>Thu, 18 Apr 2024 16:45:59 -0600</pubDate>
       <guid>http://localhost:4321/talk/nmt/</guid>
       <description> Topics Covered: Neural Machine Translation Translation Metrics: BLEU Score &amp;amp; BERT Score Applications </description>
-    </item>
-    <item>
-      <title>About Me!</title>
-      <link>http://localhost:4321/me/</link>
-      <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/me/</guid>
-      <description>About ME! Hello &amp;#x1f44b; and welcome to my corner of the internet!&#xA;I&amp;rsquo;m Shreyash, a passionate A.I. and Data Science Engineer from India &amp;#x1f1ee;&amp;#x1f1f3;. I&amp;rsquo;m excited to share my journey, insights, and experiences with you.&#xA;With a background in Artificial Intelligence and Data Science, I&amp;rsquo;ve had the privilege of diving deep into the world of Data Science. From innovative projects, I&amp;rsquo;ve honed my skills in Python, Machine Learning, Data Science and I&amp;rsquo;m constantly seeking new ways to push the boundaries of what&amp;rsquo;s possible.</description>
     </item>
     <item>
       <title>SynthCheck</title>

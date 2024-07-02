@@ -6,8 +6,22 @@
     <description>Recent content in Categories on Shreyash Somvanshi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Apr 2024 16:45:59 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dashboards</title>
+      <link>http://localhost:4321/categories/dashboards/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/dashboards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Qliksense</title>
+      <link>http://localhost:4321/categories/qliksense/</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/qliksense/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Computational Intelligence</title>
       <link>http://localhost:4321/categories/computational-intelligence/</link>

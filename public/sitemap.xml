@@ -2,8 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:4321/me/</loc>
+    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/resume/</loc>
+    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/</loc>
+    <lastmod>2024-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/project/</loc>
+    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/project/qliksense-dashboard-try/</loc>
+    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2024-04-18T16:45:59-06:00</lastmod>
+    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/dashboards/</loc>
+    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/dashboards/</loc>
+    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/project/</loc>
+    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/qliksense/</loc>
+    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/qliksense/</loc>
+    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/tags/</loc>
+    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/computational-intelligence/</loc>
     <lastmod>2024-04-18T16:45:59-06:00</lastmod>
@@ -14,14 +47,8 @@
     <loc>http://localhost:4321/categories/presentation/</loc>
     <lastmod>2024-04-18T16:45:59-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/</loc>
-    <lastmod>2024-04-18T16:45:59-06:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/talk/</loc>
     <lastmod>2024-04-18T16:45:59-06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/me/</loc>
-    <lastmod>2024-03-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/project-review/</loc>
     <lastmod>2024-03-14T14:15:59-06:00</lastmod>
@@ -41,9 +68,6 @@
     <loc>http://localhost:4321/certification/explainable-ai/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/</loc>
-    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/tags/deep-learning/</loc>
     <lastmod>2023-10-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -59,9 +83,6 @@
     <loc>http://localhost:4321/categories/image-classification/</loc>
     <lastmod>2023-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/tags/project/</loc>
-    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/categories/python/</loc>
     <lastmod>2023-10-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -72,9 +93,6 @@
     <lastmod>2023-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/synthetic/</loc>
-    <lastmod>2023-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/tags/</loc>
     <lastmod>2023-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/tags/xai/</loc>
