@@ -35,6 +35,7 @@ This Privacy Policy outlines how your personal information is collected, used, a
 **5. Your Rights**
 
 - You have the right to access, correct, or delete your personal information. Contact [Your Contact Information] for assistance.
+- The logos featured in the skills section belong to their respective organizations or entities and are used for illustrative purposes only. This website does not claim ownership or rights of any of the logos displayed except the favicon and website icon.
 
 **6. Changes to Privacy Policy**
 

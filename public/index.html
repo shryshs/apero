@@ -79,22 +79,17 @@ if (!doNotTrack) {
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 active" href="/" title="Home">Home</a>
-      
-        
-        
-        
       <a class="link f6 f5-l dib pv1 ph2 " href="/me/" title="About">About</a>
       
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 " href="/blog/" title="Blogs">Blogs</a>
+      <a class="link f6 f5-l dib pv1 ph2 " href="/resume/" title="Resume">Resume</a>
       
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 " href="/resume/" title="Resume">Resume</a>
+      <a class="link f6 f5-l dib pv1 ph2 " href="/blog/" title="Blogs">Blogs</a>
       
         
         
@@ -256,12 +251,34 @@ if (!doNotTrack) {
       </div>
       <div class="tr w-50-l ml4">
       
-        <img class="mv0 w-70-m" style="width: 90%;" src="img/Shreyash.jpg"/>
+        <img class="mv0 w-70-m" src="img/Shreyash.jpg"/>
       
       </div>
     </div>
   </section>
 </main>
+<div id="chatbot-icon" style="position: fixed; bottom: 7%; right: 3%; cursor: pointer;">
+  <img src="/bot-icon.png" alt="👋" width="50" height="50" onclick="openChatbot()">
+  
+</div>
+
+<div id="chatbot-container" style="display: none; position: fixed; bottom: 7%; right: 3%; width: 90%; max-width: 350px; height: 70vh; border: 3px solid #ff9933; border-radius: 10px; overflow: hidden; opacity: 1;">
+  <iframe src="https://shr-chatbot.streamlit.app/?embed=true&embed_options=hide_loading_screen&embed_options=dark_theme" width="100%" height="100%" frameborder="0"></iframe>
+  <button onclick="closeChatbot()" style="cursor: pointer; border-radius: 50px; text-align: center; position: absolute; top: 7px; right: 10px;"> x </button>
+  <button onclick="closeChatbot()" style="cursor: pointer; border-radius: 30px; text-align: center; position: absolute; bottom: 10px; right: 10px;"> Close </button>
+</div>
+
+<script>
+  function openChatbot() {
+    var chatbotContainer = document.getElementById("chatbot-container");
+    chatbotContainer.style.display = "block";
+  }
+
+  function closeChatbot() {
+    var chatbotContainer = document.getElementById("chatbot-container");
+    chatbotContainer.style.display = "none";
+  }
+</script>
 <footer class="site-footer pv4 bt b--transparent ph5" role="contentinfo">
   <nav class="db dt-l w-100">
     <p class="site-copyright f7 db dtc-l v-mid w-100 w-33-l tc tl-l pv2 pv0-l mv0 lh-copy">

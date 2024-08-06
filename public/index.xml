@@ -202,7 +202,7 @@
       <link>http://localhost:4321/terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/terms/</guid>
-      <description>Terms and Conditions Welcome to this website! By accessing and using this website, you agree to comply with these terms and conditions. If you disagree with any part of these terms, please refrain from using the website.&#xA;Website Rights Attribution: The rights to this open-source Hugo Apero template belong to its core contributors and developers, and I acknowledge and respect their creative contributions.&#xA;Content Ownership: Unless specified otherwise, most of the content on this website belongs to owner.</description>
+      <description>Terms and Conditions Welcome to this website! By accessing and using this website, you agree to comply with these terms and conditions. If you disagree with any part of these terms, please refrain from using or browsing the website.&#xA;Website Rights Attribution: The rights to this open-source Hugo Apero template belong to its core contributors and developers, and I acknowledge and respect their creative contributions.&#xA;Logos: The logos featured in the skills section belong to their respective organizations and are used for illustrative purposes only.</description>
     </item>
   </channel>
 </rss>

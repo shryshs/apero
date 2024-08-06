@@ -127,20 +127,15 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "Home"
-    title = "Home"
-    url = "/"
-    weight = 1
-  [[menu.header]]
     name = "About"
     title = "About"
     url = "/me/"
-    weight = 2
+    weight = 1
   [[menu.header]]
     name = "Resume"
     title = "Resume"
     url = "/resume/"
-    weight = 3
+    weight = 2
   [[menu.header]]
     name = "Blogs"
     title = "Blogs"
@@ -193,7 +188,7 @@ enableEmoji = true
     anonymizeIP = false
     respectDoNotTrack = false
   [privacy.instagram]
-    disable = false
+    disable = true
     simple = true
   [privacy.twitter]
     disable = false
