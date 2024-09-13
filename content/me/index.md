@@ -44,7 +44,7 @@ Best Regards,<br>
 #### Databases:
 |||| |
 | --- | --- | --- | --- |
-| <img src="/logos/databases/logo-mysql-170x115.png" alt="SQL" style="width: 50px; height: 45px;"><center>MySQL</center>  |  <img src="/logos/databases/mongodb.png" alt="MongoDB" style="width: 50px; height: 50px;">  <center>MongoDB</center>  | <img src="/logos/databases/neo4j.svg" alt="Neo4J" style="width: 50px; height: 50px;"> <center>Neo4j</center> | <img src="https://img.icons8.com/color/452/microsoft-excel-2019.png" alt="Excel" style="width: 50px; height: 50px;"> <center>Excel</center> |
+| <img src="/logos/databases/logo-mysql-170x115.png" alt="SQL" style="width: 50px; height: 45px;"><center>MySQL</center>  |  <img src="/logos/databases/mongodb.png" alt="MongoDB" style="width: 50px; height: 50px;">  <center>MongoDB</center>  | <img src="/logos/databases/neo4j.svg" alt="Neo4J" style="width: 50px; height: 50px;"> <center>Neo4j</center> | <img src="/logos/dashboarding/microsoft-excel-2019.png" alt="Excel" style="width: 50px; height: 50px;"> <center>Excel</center> |
 
 ---
 
@@ -95,14 +95,11 @@ Best Regards,<br>
 {{< /panel >}}
 
 {{< panel name="Education" >}}
-+ **B.E. Artificial Intelligence and Data Science**  *(2020 - 2024)*
++ **B.E. in Artificial Intelligence and Data Science**  *(2020 - 2024)*
     > - *Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology, Baramati*
-    > - CGPA: 8.44
----
-+ **Honours in Cybersecurity** *(2022 - 2024)*
     > - *Savitribai Phule Pune University*
-    > - Grade: C
-
+    > - CGPA: 8.44
+    > - Minor* in Cybersecurity
 {{< /panel >}}
 
 {{< panel name="Freelancing" >}}
