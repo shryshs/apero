@@ -99,7 +99,7 @@ Best Regards,<br>
     > - *Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology, Baramati*
     > - *Savitribai Phule Pune University*
     > - CGPA: 8.44
-    > - Minor* in Cybersecurity
+    > - Minor in Cybersecurity
 {{< /panel >}}
 
 {{< panel name="Freelancing" >}}

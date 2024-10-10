@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/shr.png"
+  sharing_image = "/img/Shreyash.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "shreyash___s"
   
@@ -113,6 +113,10 @@ enableEmoji = true
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/shreyash___s"
+    [[params.social]]
+      icon      = "telegram" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://t.me/sshhrreeyyaasshh"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
@@ -147,20 +151,15 @@ enableEmoji = true
     url = "/project/"
     weight = 4
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 5
-  [[menu.header]]
     name = "Certifications"
     title = "Certifications"
     url = "/certification/"
-    weight = 6
+    weight = 5
   [[menu.header]]
     name = "Contact"
     title = "Contact Me!"
     url = "/contact/"
-    weight = 7
+    weight = 6
 
   # Configure footer  
   [[menu.footer]]

@@ -17,7 +17,7 @@ sidebar:
   description: |
     Discover expert insights and analysis across technology, business, and lifestyle. Stay ahead with the latest trends and industry developments. 
     
-    Join the conversation and elevate your knowledge with our concise and informative articles.
+    Join the conversation and elevate your knowledge with these concise and informative articles.
     
   author: "Shreyash Somvanshi"
   text_link_label: Subscribe via RSS
@@ -25,6 +25,7 @@ sidebar:
   categories_link: false
   series_link: false
   tags_link: false
+  talks_link: true
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside blog/
