@@ -110,7 +110,7 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://medium.com/@ShreyashSomvanshi"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
+      icon      = "x-twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/shreyash___s"
     [[params.social]]
@@ -133,7 +133,7 @@ enableEmoji = true
   [[menu.header]]
     name = "About"
     title = "About"
-    url = "/me/"
+    url = "/about/"
     weight = 1
   [[menu.header]]
     name = "Resume"
