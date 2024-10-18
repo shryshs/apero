@@ -22,7 +22,7 @@ outro: |
   
   ---
   
-  ## <i class="fa-solid fa-money-check-dollar fa-beat-fade"></i> | Freelancing
+  ## <i class="fa-solid fa-briefcase fa-beat-fade"></i> | Freelancing
   I am available for short-term contract or consulting work with a focus on statistical analysis, data exploration, and dashboard development. 
 
   #### Services I Offer:
@@ -39,8 +39,8 @@ outro: |
   + ##### For related inquiries or consultations, please *[contact me](/contact)*, to discuss requirements, scope and cost. Or *[Hire me](https://www.upwork.com/freelancers/~01cf3a4a4e615b5f85)* via Upwork.
   ---
   
-  ## <i class="fa-brands fa-readme"></i> | Published Work
-  1. **Shreyash Somvanshi**, et al. (2024), **"Synthetic Image Identification using Deep Learning: A Review"** in *International Journal of Scientific Research in Engineering and Management (IJSREM)*, vol. 08, issue 03, [DOI: 10.55041/IJSREM28964](https://doi.org/10.55041/IJSREM28964)
+  ## <i class="fa-brands fa-readme"></i> | Publications
+  `[1].` **Shreyash Somvanshi**, et al. (2024), **"Synthetic Image Identification using Deep Learning: A Review"** in *International Journal of Scientific Research in Engineering and Management (IJSREM)*, vol. 08, issue 03, [DOI: 10.55041/IJSREM28964](https://doi.org/10.55041/IJSREM28964)
   
   ---
   
@@ -65,6 +65,11 @@ outro: |
   ## <i class="fa-solid fa-award"></i> | Testimonials
   - **Rohit Kasbekar**, *Manager-Digital Health, Saskatchewan Health Authority*
     > *I am delighted to write this recommendation for Shreyash as he embarks on his journey as a budding AI engineer. He possesses a strong foundation in mathematics, statistics, and computer science, laying a solid groundwork for success. Shreyash embraces lifelong learning, staying current with the rapidly evolving technologies. With his dedication, analytical mindset, and passion for innovation, I have full confidence in Shreyash's ability to excel in any AI-related endeavor he pursues. - [via ADPList](https://adplist.org/members/shreyash-somvanshi)*
+  ---
+  
+  ## <i class="fa-solid fa-id-card"></i> | Resume
+  <embed src="/resume/Shreyash Somvanshi Resume.pdf" type="application/pdf" width="100%" height="600px" />
+
   ---
   
   

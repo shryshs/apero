@@ -113,10 +113,6 @@ enableEmoji = true
       icon      = "x-twitter" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://twitter.com/shreyash___s"
-    [[params.social]]
-      icon      = "telegram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://t.me/sshhrreeyyaasshh"
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
@@ -136,30 +132,25 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Resume"
-    title = "Resume"
-    url = "/resume/"
-    weight = 2
-  [[menu.header]]
     name = "Blogs"
     title = "Blogs"
     url = "/blog/"
-    weight = 3
+    weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Project Portfolio"
     url = "/project/"
-    weight = 4
+    weight = 3
   [[menu.header]]
     name = "Certifications"
     title = "Certifications"
     url = "/certification/"
-    weight = 5
+    weight = 4
   [[menu.header]]
     name = "Contact"
     title = "Contact Me!"
     url = "/contact/"
-    weight = 6
+    weight = 5
 
   # Configure footer  
   [[menu.footer]]

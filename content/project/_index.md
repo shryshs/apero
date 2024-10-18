@@ -1,6 +1,6 @@
 ---
 title: A Project Portfolio To Grow
-description: "Explore a collection of my personal projects, reflecting my skills and interests in areas such as Machine Learning, Data Science. 🚧 ⚠️ Under maintenance! I'm currently updating this content. Thank you for your patience! 🛠️"
+description: "Explore a collection of my personal projects, reflecting my skills and interests in areas such as Machine Learning, Data Science."
 author: "Shreyash Somvanshi"
 show_post_thumbnail: true
 show_author_byline: false
