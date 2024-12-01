@@ -7,7 +7,7 @@ layout: standard
 # show_title_as_headline: true
 ---
 
-## My Skills:
+## My Skills/Targets:
 
 - **Programming Languages:** Python, R, Julia
 

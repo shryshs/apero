@@ -22,29 +22,15 @@ outro: |
   
   ---
   
-  ## <i class="fa-solid fa-briefcase fa-beat-fade"></i> | Freelancing
-  I am available for short-term contract or consulting work with a focus on statistical analysis, data exploration, and dashboard development. 
-
-  #### Services I Offer:
-    > + Technical Writing
-    > + Generative AI
-    > + MLOps
-    > + Data Visualization
-    > + Predictive Analytics
-    > + Data Pipelines
-    > + Deep Learning Solutions
-
-  + ##### *Rates are negotiable by project and typically billed on the per-project basis or $10/hr*
-  
-  + ##### For related inquiries or consultations, please *[contact me](/contact)*, to discuss requirements, scope and cost. Or *[Hire me](https://www.upwork.com/freelancers/~01cf3a4a4e615b5f85)* via Upwork.
-  ---
-  
   ## <i class="fa-brands fa-readme"></i> | Publications
   `[1].` **Shreyash Somvanshi**, et al. (2024), **"Synthetic Image Identification using Deep Learning: A Review"** in *International Journal of Scientific Research in Engineering and Management (IJSREM)*, vol. 08, issue 03, [DOI: 10.55041/IJSREM28964](https://doi.org/10.55041/IJSREM28964)
   
   ---
   
   ## <i class="fa-solid fa-stairs"></i> | Experience 
+  + **Software Engineer (Analyst A4)** - *Capgemini (Nov'24 - Present)* 
+    - Currently on training period: Java Full-stack Development.
+  
   + **A.I. & Machine Learning Volunteer** - *GDSC, VPKBIET (Aug'23 - May'24)* 
     - Collaboratively took initiatives in projects to democratize cutting-edge technology within the student community.
     - Empowered fellow students through dynamic AI and ML engagement as a GDSC volunteer, instilling a culture of innovation and exploration in the realm of A.I.
@@ -76,4 +62,26 @@ outro: |
 ---
 
 ** index doesn't contain a body, just front matter above.
-See about/list.html in the layouts folder **
+See about/list.html in the layouts folder 
+
+freelancing content:
+
+  
+  ## <i class="fa-solid fa-briefcase fa-beat-fade"></i> | Freelancing
+  I am available for short-term contract or consulting work with a focus on statistical analysis, data exploration, and dashboard development. 
+
+  #### Services I Offer:
+    > + Technical Writing
+    > + Generative AI
+    > + MLOps
+    > + Data Visualization
+    > + Predictive Analytics
+    > + Data Pipelines
+    > + Deep Learning Solutions
+
+  + ##### *Rates are negotiable by project and typically billed on the per-project basis or $10/hr*
+  
+  + ##### For related inquiries or consultations, please *[contact me](/contact)*, to discuss requirements, scope and cost. Or *[Hire me](https://www.upwork.com/freelancers/~01cf3a4a4e615b5f85)* via Upwork.
+
+**
+
