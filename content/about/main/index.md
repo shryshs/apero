@@ -29,7 +29,7 @@ outro: |
   
   ## <i class="fa-solid fa-stairs"></i> | Experience 
   + **Software Engineer (Analyst A4)** - *Capgemini (Nov'24 - Present)* 
-    - Currently on training period: Java Full-stack Development.
+    - DevOps, Copado
   
   + **A.I. & Machine Learning Volunteer** - *GDSC, VPKBIET (Aug'23 - May'24)* 
     - Collaboratively took initiatives in projects to democratize cutting-edge technology within the student community.
