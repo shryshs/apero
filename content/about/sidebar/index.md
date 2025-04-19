@@ -13,12 +13,10 @@ link_list:
   url: /skills/
 - name: Read my Blogs
   url: /blog/
-- name: See Projects
-  url: /project/
 - name: Research Work
   url: /about/#i-classfa-brands-fa-readmei--publications
-- name: Services
-  url: /about/#i-classfa-solid-fa-briefcase-fa-beat-fadei--freelancing
+- name: Projects
+  url: /project/
 - name: My Experience
   url: /about/#i-classfa-solid-fa-stairsi--experience
 - name: Testimonials
@@ -30,3 +28,6 @@ link_list:
 
 ** index doesn't contain a body, just front matter above.
 See about/list.html in the layouts folder **
+
+- name: Services
+  url: /about/#i-classfa-solid-fa-briefcase-fa-beat-fadei--freelancing

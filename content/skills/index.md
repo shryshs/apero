@@ -11,15 +11,15 @@ layout: standard
 
 - **Programming Languages:** Python, R, Julia
 
+- **DevOps:** Kubernetes, Jenkins, Ansible, Terraform, Prometheus, Grafana
+
 - **Dashboards:** Excel, PowerBI, Tableau, Lookerstudio, Quarto, Qlik
 
 - **Databases:** MySQL, MongoDB, Neo4j, NoSQL
 
-- **Cloud:** Google Cloud Platform, AWS, Microsoft Azure
+- **Cloud:** AWS, Microsoft Azure
 
 - **Version Control:** Github, Bitbucket, Gitlab
-
-- **Big Data Tools:** Hadoop, Scala, Apache Spark
 
 - **Data Science Tools:** KNIME, Orange
 

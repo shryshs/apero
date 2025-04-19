@@ -29,7 +29,8 @@ outro: |
   
   ## <i class="fa-solid fa-stairs"></i> | Experience 
   + **Software Engineer (Analyst A4)** - *Capgemini (Nov'24 - Present)* 
-    - DevOps, Copado
+    - DevOps
+    - Salesforce Copado
   
   + **A.I. & Machine Learning Volunteer** - *GDSC, VPKBIET (Aug'23 - May'24)* 
     - Collaboratively took initiatives in projects to democratize cutting-edge technology within the student community.
@@ -52,12 +53,6 @@ outro: |
   - **Rohit Kasbekar**, *Manager-Digital Health, Saskatchewan Health Authority*
     > *I am delighted to write this recommendation for Shreyash as he embarks on his journey as a budding AI engineer. He possesses a strong foundation in mathematics, statistics, and computer science, laying a solid groundwork for success. Shreyash embraces lifelong learning, staying current with the rapidly evolving technologies. With his dedication, analytical mindset, and passion for innovation, I have full confidence in Shreyash's ability to excel in any AI-related endeavor he pursues. - [via ADPList](https://adplist.org/members/shreyash-somvanshi)*
   ---
-  
-  ## <i class="fa-solid fa-id-card"></i> | Resume
-  <embed src="/resume/Shreyash Somvanshi Resume.pdf" type="application/pdf" width="100%" height="600px" />
-
-  ---
-  
   
 ---
 
@@ -82,6 +77,12 @@ freelancing content:
   + ##### *Rates are negotiable by project and typically billed on the per-project basis or $10/hr*
   
   + ##### For related inquiries or consultations, please *[contact me](/contact)*, to discuss requirements, scope and cost. Or *[Hire me](https://www.upwork.com/freelancers/~01cf3a4a4e615b5f85)* via Upwork.
+
+
+  ## <i class="fa-solid fa-id-card"></i> | Resume
+  <embed src="/resume/Shreyash Somvanshi Resume.pdf" type="application/pdf" width="100%" height="600px" />
+
+  ---
 
 **
 
