@@ -9,7 +9,7 @@ disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
-paginate = 5 # no. of blogs on each page
+# paginate = 5 # no. of blogs on each page
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
@@ -31,9 +31,9 @@ enableEmoji = true
   orgName = "Shreyash Somvanshi"
   orgLocal = ""
   description = "Inside you'll find my writing about products and projects I've worked on, along with my personal reflections about learning, and crafting kind tech tools."
-  favicon = "/img/shr.ico"
-  logo = "/img/shr.png"
-  mainSections = ["blog", "project", "talk"]
+  favicon = "/img/red-circle.ico"
+  logo = "/img/smileyy.png"
+  # mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -50,7 +50,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
   #         poppy / primer / sky / violet / water 
-  theme = "magma"
+  theme = "peach"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -99,18 +99,18 @@ enableEmoji = true
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/shreyash-somvanshi"
-  [[params.social]]
-      icon      = "kaggle" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.kaggle.com/shreyashsomvanshi"
-  [[params.social]]
-      icon      = "user-astronaut" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "https://machinehack.com/user/63e66c416018ef32de78c4d0"
-  [[params.social]]
-      icon      = "medium" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://medium.com/@ShreyashSomvanshi"
+#  [[params.social]]
+#      icon      = "kaggle" # icon name without the 'fa-'
+#      icon_pack = "fab"
+#      url       = "https://www.kaggle.com/shreyashsomvanshi"
+#  [[params.social]]
+#      icon      = "user-astronaut" # icon name without the 'fa-'
+#      icon_pack = "fas"
+#      url       = "https://machinehack.com/user/63e66c416018ef32de78c4d0"
+#  [[params.social]]
+#      icon      = "medium" # icon name without the 'fa-'
+#      icon_pack = "fab"
+#      url       = "https://medium.com/@ShreyashSomvanshi"
   [[params.social]]
       icon      = "x-twitter" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -129,20 +129,20 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
+    name = "About-Me"
     title = "About"
     url = "/about/"
     weight = 1
-  [[menu.header]]
-    name = "Blogs"
-    title = "Blogs"
-    url = "/blog/"
-    weight = 2
-  [[menu.header]]
-    name = "Contact"
-    title = "Contact Me!"
-    url = "/contact/"
-    weight = 3
+#  [[menu.header]]
+#    name = "Blogs"
+#    title = "Blogs"
+#    url = "/blog/"
+#    weight = 2
+#  [[menu.header]]
+#    name = "Contact"
+#    title = "Contact Me!"
+#    url = "/contact/"
+#    weight = 3
     
     # [[menu.header]]
     # name = "Certifications"
@@ -179,7 +179,7 @@ enableEmoji = true
   [privacy.instagram]
     disable = true
     simple = true
-  [privacy.twitter]
+  [privacy.x]
     disable = false
     enableDNT = true
     simple = false

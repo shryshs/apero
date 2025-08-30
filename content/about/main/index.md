@@ -1,10 +1,10 @@
 ---
 ## Configure page content in wide column
-title: "🙂 | Thoughts" # leave blank to exclude
+title: " " # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
-show_intro: true
+show_intro: false
 intro: |
   Hi :wave: *Anon*, welcome to my corner of the internet!
   
@@ -22,24 +22,10 @@ outro: |
   
   ---
   
-  ## <i class="fa-brands fa-readme"></i> | Publications
-  `[1].` **Shreyash Somvanshi**, et al. (2024), **"Synthetic Image Identification using Deep Learning: A Review"** in *International Journal of Scientific Research in Engineering and Management (IJSREM)*, vol. 08, issue 03, [DOI: 10.55041/IJSREM28964](https://doi.org/10.55041/IJSREM28964)
-  
-  ---
-  
   ## <i class="fa-solid fa-stairs"></i> | Experience 
-  + **Software Engineer (Analyst A4)** - *Capgemini (Nov'24 - Present)* 
-    - DevOps
-    - Salesforce Copado
-  
-  + **A.I. & Machine Learning Volunteer** - *GDSC, VPKBIET (Aug'23 - May'24)* 
-    - Collaboratively took initiatives in projects to democratize cutting-edge technology within the student community.
-    - Empowered fellow students through dynamic AI and ML engagement as a GDSC volunteer, instilling a culture of innovation and exploration in the realm of A.I.
+  + **Software Engineer** - *Capgemini (Nov'24 - Present)* 
+    - DevSecOps
 
-  + **Machine Learning Intern** - *Feynn Labs (Dec'22 - Feb'23)*
-    - Worked on real world problems including some case studies and Market Segmentation of Electric Vehicles.
-    - Plotted clear and attractive visualizations, created insightful documentations and reports.
-    - Gained experience in working with Unsupervised Learning algorithms and state-of-the-art ML frameworks.
   ---
   
   ## <i class="fa-solid fa-user-graduate"></i> | Education
@@ -48,10 +34,10 @@ outro: |
     > - CGPA: 8.44
     > - **Honours in Cybersecurity** *(2022 - 2024)*
   ---
+  
+  ## <i class="fa-solid fa-id-card"></i> | Resume
+  <embed src="/resume/Shreyash Somvanshi Resume.pdf" type="application/pdf" width="100%" height="600px" />
 
-  ## <i class="fa-solid fa-award"></i> | Testimonials
-  - **Rohit Kasbekar**, *Manager-Digital Health, Saskatchewan Health Authority*
-    > *I am delighted to write this recommendation for Shreyash as he embarks on his journey as a budding AI engineer. He possesses a strong foundation in mathematics, statistics, and computer science, laying a solid groundwork for success. Shreyash embraces lifelong learning, staying current with the rapidly evolving technologies. With his dedication, analytical mindset, and passion for innovation, I have full confidence in Shreyash's ability to excel in any AI-related endeavor he pursues. - [via ADPList](https://adplist.org/members/shreyash-somvanshi)*
   ---
   
 ---
@@ -83,6 +69,8 @@ freelancing content:
   <embed src="/resume/Shreyash Somvanshi Resume.pdf" type="application/pdf" width="100%" height="600px" />
 
   ---
-
+  ## <i class="fa-solid fa-award"></i> | Testimonials
+  - **Rohit Kasbekar**, *Manager-Digital Health, Saskatchewan Health Authority*
+    > *I am delighted to write this recommendation for Shreyash as he embarks on his journey as a budding AI engineer. He possesses a strong foundation in mathematics, statistics, and computer science, laying a solid groundwork for success. Shreyash embraces lifelong learning, staying current with the rapidly evolving technologies. With his dedication, analytical mindset, and passion for innovation, I have full confidence in Shreyash's ability to excel in any AI-related endeavor he pursues. - [via ADPList](https://adplist.org/members/shreyash-somvanshi)*
+  ---
 **
-
