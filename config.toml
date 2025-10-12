@@ -94,11 +94,11 @@ enableEmoji = true
   [[params.social]]
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "mailto:shreyashsomvanshi03@gmail.com"
+      url       = "mailto:shreyashsomvanshi03[at]gmail[dot]com"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/ShreyashSomvanshi"
+      url       = "https://github.com/shryshs"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"
@@ -133,20 +133,20 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About-Me"
+    name = "About"
     title = "About"
     url = "/about/"
     weight = 1
-#  [[menu.header]]
-#    name = "Blogs"
-#    title = "Blogs"
-#    url = "/blog/"
-#    weight = 2
-#  [[menu.header]]
-#    name = "Contact"
-#    title = "Contact Me!"
-#    url = "/contact/"
-#    weight = 3
+  [[menu.header]]
+    name = "Blogs"
+    title = "Blogs"
+    url = "/blog/"
+    weight = 2
+  [[menu.header]]
+    name = "Contact"
+    title = "Contact Me!"
+    url = "/contact/"
+    weight = 3
     
     # [[menu.header]]
     # name = "Certifications"
@@ -162,15 +162,10 @@ enableEmoji = true
     url = "/terms/"
     weight = 1
   [[menu.footer]]
-    name = "Privacy Policy"
-    title = "Privacy Policy"
-    url = "/privacypolicy/"
-    weight = 2
-  [[menu.footer]]
     name = "Contact"
     title = "Contact form"
     url = "/contact/"
-    weight = 3
+    weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]

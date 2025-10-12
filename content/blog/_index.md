@@ -15,9 +15,8 @@ layout: list-sidebar # list, list-sidebar, list-grid
 sidebar: 
   title: BLOGS
   description: |
-    Discover expert insights and analysis across technology, business, and lifestyle. Stay ahead with the latest trends and industry developments. 
     
-    Join the conversation and elevate your knowledge with these concise and informative articles.
+    Here, I’m sharing summaries of some new random topics that i've tried to explore. These writings capture different ideas and insights that sparked my interest along the way.
     
   author: "Shreyash Somvanshi"
   text_link_label: Subscribe via RSS
