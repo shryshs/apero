@@ -105,7 +105,8 @@ h1, h2, h3, h4, h5, h6 {
   > p { @extend .lh-copy ; }
 
   > p > code {
-    @extend .f6, .ph1, .bg-white-50 ;
+    @extend .f6, .ph1, .bg-black-10 ;
+    // color: white;
   }
 
   blockquote {
