@@ -1,0 +1,19 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black background circle -->
+  <circle cx="100" cy="100" r="100" fill="black"/>
+  
+  <!-- White outer circle border -->
+  <circle cx="100" cy="100" r="95" fill="none" stroke="white" stroke-width="3"/>
+  
+  <!-- Face background -->
+  <circle cx="100" cy="100" r="75" fill="white"/>
+  
+  <!-- Left eye -->
+  <circle cx="75" cy="80" r="7" fill="black"/>
+  
+  <!-- Right eye -->
+  <circle cx="125" cy="80" r="7" fill="black"/>
+  
+  <!-- Smile -->
+  <path d="M 70 105 Q 100 130 130 105" stroke="black" stroke-width="4" fill="none" stroke-linecap="round"/>
+</svg>

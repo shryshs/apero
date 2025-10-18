@@ -2,7 +2,7 @@
 title: The PM Notebook
 description: |
   Personal notes on being a Product Manager for an open-source software ecosystem.
-author: Alison Hill
+author: Shreyash Somvanshi
 show_post_thumbnail: false
 show_author_byline: true
 show_post_date: true
@@ -12,7 +12,7 @@ layout: list-sidebar # list, list-sidebar, list-grid
 # for list-sidebar layout
 sidebar: 
   title: The PM Notebook
-  author: Alison Hill
+  author: Shreyash Somvanshi
   description: |
     Personal notes on being a Product Manager for an open-source software ecosystem.
   text_link_label: ""
@@ -23,7 +23,7 @@ sidebar:
 cascade:
   layout: single-series       # for a series, do not change
   series: The PM Notebook  # name your series
-  author: Alison Hill
+  author: Shreyash Somvanshi
   show_author_byline: true
   show_post_date: true
   sidebar:

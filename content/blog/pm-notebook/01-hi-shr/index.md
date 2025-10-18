@@ -11,7 +11,7 @@ editor_options:
 
 ## Background
 
-Lately, one of the most exciting things you can say to me (at work) is
+`Lately, one of the most exciting things you can say to me (at work) is`
 
 > *“Why aren’t people using X? What are the problems with X, and how can
 > we fix them?”*.
