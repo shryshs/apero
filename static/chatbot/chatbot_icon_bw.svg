@@ -1,0 +1,22 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Black background circle -->
+  <circle cx="100" cy="100" r="100" fill="black"/>
+  
+  <!-- White circle border -->
+  <circle cx="100" cy="100" r="95" fill="none" stroke="white" stroke-width="2"/>
+  
+  <!-- Chat bubble -->
+  <rect x="40" y="50" width="120" height="90" rx="12" fill="white" stroke="white" stroke-width="2"/>
+  
+  <!-- Chat bubble tail -->
+  <polygon points="55,140 45,155 65,140" fill="white"/>
+  
+  <!-- Dot 1 -->
+  <circle cx="70" cy="100" r="6" fill="black"/>
+  
+  <!-- Dot 2 -->
+  <circle cx="100" cy="100" r="6" fill="black"/>
+  
+  <!-- Dot 3 -->
+  <circle cx="130" cy="100" r="6" fill="black"/>
+</svg>

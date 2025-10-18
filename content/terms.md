@@ -11,7 +11,7 @@ Welcome to this website! *By accessing and using this website, you agree to comp
 The rights to this open-source Hugo Apero template belong to its core contributors and developers, and I acknowledge and respect their creative contributions.
 
 **Logos:**
-The logos featured in the skills section belong to their respective organizations and are used for illustrative purposes only. This website does not claim ownership of any of the logos displayed.
+The logos featured in the skills section belong to their respective organizations and are used for illustrative purposes only. This website does not claim ownership of any of the logos displayed. And also some of them are A.I. generated images.
 
 **Content Ownership:**
 Unless specified otherwise, most of the content on this website belongs to owner. The blog author reserves the right to the original content published on this platform. Authorized use, distribution of the blog's articles with proper credits and references is allowed. My [blog posts](/post/) are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
