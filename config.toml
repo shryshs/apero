@@ -135,16 +135,26 @@ enableEmoji = true
     title = "About"
     url = "/about/"
     weight = 1
+  # [[menu.header]]
+  #   name = "Blogs"
+  #   title = "Blogs"
+  #   url = "/blog/"
+  #   weight = 2
   [[menu.header]]
-    name = "Blogs"
-    title = "Blogs"
-    url = "/blog/"
+    name = "Skills" # Proficiencies
+    title = "Skills"
+    url = "/skills/"
     weight = 2
+  [[menu.header]]
+    name = "Attainments"
+    title = "Certifications & Badges"
+    url = "/certification/"
+    weight = 3
   [[menu.header]]
     name = "Contact"
     title = "Contact Me!"
     url = "/contact/"
-    weight = 3
+    weight = 4
     
     # [[menu.header]]
     # name = "Certifications"

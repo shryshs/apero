@@ -11,13 +11,13 @@ link_list:
   url: /about/#-resume  
 - name: Skills
   url: /skills/
-- name: Blogs
-  url: /blog/
-- name: Projects
-  url: /project/
+# - name: Blogs
+#   url: /blog/
+# - name: Projects
+#   url: /project/
 - name: Experience
   url: /about/#-experience
-- name: Contact Me
+- name: Connect
   url: /contact/
 
 ---

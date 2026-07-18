@@ -24,15 +24,15 @@ outro: |
   ---
   
   ## <i class="fa-solid fa-stairs"></i> | Experience 
-  + **Software Engineer** - *Capgemini (Nov'24 - Present)* 
-    > **DevSecOps**
-    > - Tools & Technologies:
-    >    + Git
-    >    + AWS
-    >    + Jenkins
-    >    + Kubernetes
-    >    + Snyk
-    >    + Qualys
+  + Software Engineer (**DevSecOps**) - *Capgemini (Nov'24 - Aug'26)* 
+
+    > - Configured & managed Jenkins CI/CD pipelines for deployment of Java microservices on Amazon EKS and ECS.
+    > - Worked collaboratively with the developers to trace & investigate the application execution & error logs, RCAs, other issues.
+    > - Ensured the security & compliance aspects using DevSecOps tools like Gitleaks, SonarQube, Snyk Code scan, Snyk SCA, Snyk Container Security, Qualys scan.
+    > - Automated uploading of daily security reports to confluence space, & reduced manual efforts.
+    > - Regularly analysed the security scan reports & collaborated with the developer teams to mitigate or resolve the detections.
+    > - Frequently monitored the application status, Kubernetes cluster status, resource utilization metrics.
+    > - Architectured an end-to-end CI-CD workflow for an Agentic AI application using GitHub Actions, Podman, AWS ECR, EC2 implemented run-time secrets ingestion approach to manage the API keys securely, also ensured high availability & minimum downtime rollback approach.
 
   ---
   
@@ -48,6 +48,9 @@ outro: |
   - **Rohit Kasbekar**, *Manager-Digital Health, Saskatchewan Health Authority*
     > *I am delighted to write this recommendation for Shreyash as he embarks on his journey as a budding AI engineer. He possesses a strong foundation in mathematics, statistics, and computer science, laying a solid groundwork for success. Shreyash embraces lifelong learning, staying current with the rapidly evolving technologies. With his dedication, analytical mindset, and passion for innovation, I have full confidence in Shreyash's ability to excel in any AI-related endeavor he pursues. - [via ADPList](https://adplist.org/members/shreyash-somvanshi)*
   ---
+
+  ## <i class="fa-solid fa-id-card"></i> | Resume
+  <embed src="/resume/Shreyash Somvanshi Resume.pdf" type="application/pdf" width="100%" height="750px" />
 
   <i class="fa-solid fa-users-gear"></i> Sincere thanks to [Blogophonic(Formspree)](https://github.com/formspree/blogophonic-hugo) , [Alison Hill](https://apreshill.com/) and all other contributors for developing this amazing [Hugo Apéro](https://github.com/hugo-apero/hugo-apero) theme!
   

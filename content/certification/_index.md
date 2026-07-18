@@ -3,6 +3,7 @@ title: CERTIFICATIONS
 description: |
   Demonstrating expertise and continuous learning.
 author: "Shreyash Somvanshi"
+url: /certs/
 show_post_thumbnail: true
 show_author_byline: false
 show_post_date: true
