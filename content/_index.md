@@ -3,8 +3,8 @@ title: "Shreyash Somvanshi"
 subtitle: "DevSecOps"
 description: "Hi! 👋🏼, "
 # description: " Welcome! 👋, I’m a data enthusiast passionate about decoding the world’s complexities through data. Explore my data-driven projects, dive into the latest trends in Data Science, and connect with me to uncover the incredible potential of this field. <br><br> Let’s turn data into decisions."
-# images:
-  # - img/me.jpg
+images:
+  - img/me.jpg
 # image_left: false
 text_align_left: true
 show_social_links: true # specify social accounts in site config

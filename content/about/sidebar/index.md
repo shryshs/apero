@@ -11,15 +11,16 @@ link_list:
   url: /about/#-resume  
 - name: Skills
   url: /skills/
-# - name: Blogs
-#   url: /blog/
-# - name: Projects
-#   url: /project/
+- name: Certifications
+  url: /mycerts/
 - name: Experience
   url: /about/#-experience
 - name: Connect
   url: /contact/
-
+# - name: Blogs
+#   url: /blog/
+# - name: Projects
+#   url: /project/
 ---
 
 ** index doesn't contain a body, just front matter above.
