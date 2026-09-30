@@ -54,7 +54,7 @@ See about/list.html in the layouts folder
 
   
   ## <i class="fa-solid fa-id-card"></i> | Resume
-  <embed src="/resume/Shreyash Somvanshi Resume.pdf" type="application/pdf" width="100%" height="600px" />
+  <embed src="/resume/Shreyash-Somvanshi-DevSecOps.pdf" type="application/pdf" width="100%" height="600px" />
 
 freelancing content:
 
