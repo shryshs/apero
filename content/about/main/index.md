@@ -42,7 +42,7 @@ outro: |
   ---
 
   ## <i class="fa-solid fa-id-card"></i> | Resume
-  <embed src="/resume/Shreyash Somvanshi Resume.pdf" type="application/pdf" width="100%" height="750px" />
+  <embed src="/resume/Shreyash-Somvanshi-DevSecOps.pdf" type="application/pdf" width="100%" height="750px" />
 
   <i class="fa-solid fa-users-gear"></i> Sincere thanks to [Blogophonic(Formspree)](https://github.com/formspree/blogophonic-hugo) , [Alison Hill](https://apreshill.com/) and all other contributors for developing this amazing [Hugo Apéro](https://github.com/hugo-apero/hugo-apero) theme!
   
